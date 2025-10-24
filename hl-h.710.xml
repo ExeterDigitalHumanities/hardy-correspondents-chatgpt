@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HL-H.710">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Thomas Hardy to Captain Acland (27 Sept. 1910)</title>
+            <author>Thomas Hardy</author>
+            <editor>Diplomatic transcription by ChatGPT</editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Unpublished manuscript letter</publisher>
+            <availability status="restricted">
+               <p>For scholarly use.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University of Edinburgh</repository>
+                  <idno>HL H.710</idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Card; ink; recto written, verso blank.</support>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Diplomatic transcription preserving original orthography, punctuation, and lineation. Line breaks are encoded with &lt;lb/&gt;.</p>
+         </projectDesc>
+      </encodingDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#hardy">Thomas Hardy</persName>
+               <placeName>Max Gate, Dorchester</placeName>
+               <date when="1910-09-27">Sept 27: 1910</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Captain Acland</persName>
+            </correspAction>
+         </correspDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <opener>
+            <address>MAX GATE,<lb/>DORCHESTER.</address>
+            <dateline>Sept 27: 1910</dateline>
+            <salute>Dear Captain Acland:</salute>
+         </opener>
+         
+         <p>
+            At last I have the pleasure <lb/>
+            of acceding to the request of the Council <lb/>
+            by yourself, &amp; send a complete set <lb/>
+            of my writings in prose &amp; verse up <lb/>
+            to date — so far as they have been <lb/>
+            collected. A few are not yet printed <lb/>
+            in volume form, but those I hope <lb/>
+            you may receive hereafter.
+         </p>
+         
+         <p>Believe me</p>
+         
+         <closer>
+            <salute>Yours very truly,</salute><lb/>
+            <signed>Thomas Hardy.</signed>
+         </closer>
+         
+         <note type="verso">Verso blank.</note>
+      </body>
+   </text>
+</TEI>
