@@ -1,5 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="HL-H.709">
-  <teiHeader><fileDesc><titleStmt><title>Thomas Hardy to Captain Acland, 6 Feb 1908</title></titleStmt>
-  <sourceDesc><msDesc><msIdentifier><repository>The Dorset History Centre / Dorset Museum</repository><idno>HL H.709</idno></msIdentifier></msDesc></sourceDesc></fileDesc></teiHeader>
-  <text><body><p>...</p></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter from Thomas Hardy to Captain Acland (H.709)</title>
+        <author>Thomas Hardy</author>
+        <respStmt>
+          <resp>TEI P5 diplomatic transcription</resp>
+          <name>ChatGPT</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>—</publisher>
+        <availability status="restricted">
+          <p>For scholarly use.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <idno>H.709</idno>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>Autograph letter signed, 2 pages.</support>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate when="1908-02-06">Feb 6, 1908</origDate>
+              <origPlace>Max Gate</origPlace>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="#hardy">Thomas Hardy</persName>
+          <placeName>Max Gate</placeName>
+          <date when="1908-02-06">Feb 6, 1908</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Captain Acland</persName>
+        </correspAction>
+      </correspDesc>
+    </profileDesc>
+  </teiHeader>
+  
+  <text>
+    <body>
+      <div type="letter">
+        <pb n="1" facs="uoedh_hl_h.709_1.jpg"/>
+        <opener>
+          <dateline>
+            <placeName>Max Gate</placeName><lb/>
+            <date when="1908-02-06">Feb 6. 1908</date>
+          </dateline>
+          <salute>Dear Captain Acland:</salute>
+        </opener>
+        
+        <p>
+          I will with much<lb/>
+          pleasure present the museum library<lb/>
+          with the books you suggest. As the<lb/>
+          copies you already have are of various<lb/>
+          editions, &amp; some of them contain errors<lb/>
+          corrected in more recent &amp; uniform<lb/>
+          editions, I think I should prefer<lb/>
+          to give a complete set, all alike in<lb/>
+          style. I will bear this in mind when<lb/>
+          I see my publishers.<lb/>
+          I shall be quite willing to sign<lb/>
+          them. There is, however, one reason
+        </p>
+        
+        <pb n="2" facs="uoedh_hl_h.709_2.jpg"/>
+        
+        <p>
+          which may make it advisable<lb/>
+          that I should not do so, namely<lb/>
+          that books so signed have a<lb/>
+          tendency to disappear from libraries,<lb/>
+          or, at best, to have the title-page<lb/>
+          torn out, or whatever leaf the name<lb/>
+          is written on. This point can<lb/>
+          be considered later on.
+        </p>
+        
+        <closer>
+          <salute>Yours very truly</salute><lb/>
+          <signed>T. Hardy.</signed>
+        </closer>
+        
+        <postscript>
+          <p>
+            P.S. I am enjoying the book Mrs.<lb/>
+            Acland was kind enough to lend, &amp; am<lb/>
+            taking great care of it. When I return<lb/>
+            it I mean to write to her about it.<lb/></p>
+            <signed>T. H.</signed>
+          
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>
