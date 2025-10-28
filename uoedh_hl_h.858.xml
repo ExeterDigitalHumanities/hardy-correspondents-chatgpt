@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Tom Bass to Thomas Hardy (H.858)</title>
+            <respStmt>
+               <resp>Diplomatic TEI P5 transcription</resp>
+               <name>ChatGPT</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>—</publisher>
+            <availability status="restricted">
+               <p>For scholarly use.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <idno>H.858</idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Autograph letter signed, 2 pages, on ruled paper, headed “22 Delta Street, Lightbowne, Moston, Manchester.”</support>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1922-06-08">8 June 1922</origDate>
+                     <origPlace>
+                        <placeName>22 Delta Street, Lightbowne, Moston</placeName>,
+                        <placeName ref="https://www.geonames.org/2643123">Manchester</placeName>,
+                        <placeName ref="https://www.geonames.org/2635167">England</placeName>
+                     </origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Tom Bass</persName>
+               <placeName ref="https://www.geonames.org/2643123">Manchester</placeName>
+               <date when="1922-06-08">8 June 1922</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   
+   <facsimile>
+      <surface xml:id="h858_s1" n="1">
+         <graphic url="uoedh_hl_h.858_1.jpg"/>
+      </surface>
+      <surface xml:id="h858_s2" n="2">
+         <graphic url="uoedh_hl_h.858_2.jpg"/>
+      </surface>
+   </facsimile>
+   
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="#h858_s1"/>
+            <dateline>
+               <address>
+                  22 Delta Street,<lb/>
+                  Lightbowne,<lb/>
+                  Moston,<lb/>
+                  <placeName ref="https://www.geonames.org/2643123">Manchester</placeName>.
+               </address><lb/>
+               <date when="1922-06-08">8/6/22.</date>
+            </dateline>
+            
+            <opener>
+               <salute>Dear Sir,</salute>
+            </opener>
+            
+            <p>
+               First of all I ask you to excuse me<lb/>
+               for the liberty I take in writing to you.<lb/>
+               Today is beautiful, although the atmo-<lb/>
+               sphere is anything but pleasant.<lb/>
+               Illumination pours down its warm pure<lb/>
+               rays, speaking to everything in this<lb/>
+               beautiful old world. I am just an<lb/>
+               ordinary young working man, though<lb/>
+               not one of the most fortunate in life,<lb/>
+               yet I possess riches untold, and beyond<lb/>
+               price,—it is not the ordinary wealth,<lb/>
+               or jewels: it is something far, far<lb/>
+               more precious; it is the love of all<lb/>
+               that is beautiful in the world of<lb/>
+               literature and the Classsic arts.<lb/>
+               Often after a long day in the work-<lb/>
+               shop, the head splitting, riveting,<lb/>
+               the hammering, the thuds of the cranks,<lb/>
+               the whirr and hum, and rattle of<lb/>
+               various types of machinery, relieved<lb/>
+               by the snatch of a whistling, humming,<lb/>
+               or singing of a popular air; by snatches<lb/>
+               we manage to catch<lb/>
+               those whiffs of the outside world per-
+            </p>
+            
+            <pb n="2" facs="#h858_s2"/>
+            
+            <p>
+               colating defiantly the noise. How they per-<lb/>
+               spire, the path of the perspiration, making<lb/>
+               perpendicular lines down the face and neck<lb/>
+               almost resembling the tattoo designs one is<lb/>
+               familiar with in the illustrations of the<lb/>
+               few surviving Maoris. It is the blood<lb/>
+               message of toil, away home, tea, to<lb/>
+               tired to leave the cottage, so after read-<lb/>
+               ing a portion of the newspaper to my angel<lb/>
+               mother, who is not able to read, away to<lb/>
+               the solitude of my bedroom to indulge<lb/>
+               in one of the treats of my life—the book.<lb/>
+               My affected imagination soon transports<lb/>
+               me to the land of romance, the scenes,<lb/>
+               or the flowery dells. I borrow books now,<lb/>
+               —times have been so bad, I have<lb/>
+               been obliged to sell much of my book<lb/>
+               collection. Your books have brought to me un-<lb/>
+               told delight; now I am wanting to borrow<lb/>
+               the latest publication of some of your<lb/>
+               poems &amp;c. &amp;c. You see I enclose a stamped<lb/>
+               addressed envelope. I wish to know if<lb/>
+               you will kindly favour me by sending me<lb/>
+               your autograph. It will be a great treasure<lb/>
+               from an author who to me has been a<lb/>
+               source of encouragement, helping to take off<lb/>
+               a share of the roughnesses of life. My kindest<lb/>
+               thoughts and good wishes to you. God Bless You.<lb/>
+               I Remain,<lb/>
+               Yours Sincerely,<lb/>
+               <signed>Tom Bass. 8/6/22.</signed>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
