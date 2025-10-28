@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from the Countess of Ilchester to Thomas Hardy (H.3661)</title>
+            <respStmt>
+               <resp>Diplomatic TEI P5 transcription</resp>
+               <name>ChatGPT</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>—</publisher>
+            <availability status="restricted">
+               <p>For scholarly use.</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <idno>H.3661</idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Autograph letter signed, 3 written pages on printed stationery (“MELBURY, DORCHESTER.”); 1 blank page.</support>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate when="1912-03-02">March 2, 1912</origDate>
+                     <origPlace>
+                        <placeName>Melbury</placeName>, 
+                        <placeName ref="https://www.geonames.org/2651101">Dorchester</placeName>
+                     </origPlace>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Helen, Countess of Ilchester</persName>
+               <placeName>Melbury</placeName>
+               <placeName ref="https://www.geonames.org/2651101">Dorchester</placeName>
+               <date when="1912-03-02">March 2, 1912</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="uoedh_hl_h.3661_1.jpg"/>
+            <note type="letterhead">
+               <hi rend="smallcaps">MELBURY, DORCHESTER.</hi><lb/>
+               <seg>Station: <placeName>Yeovil Junction</placeName> (S.W.R.)</seg>; 
+               <seg>Telegraph &amp; Parcels: <placeName ref="https://www.geonames.org/2649837">Evershot</placeName> (G.W.R.).</seg>
+            </note>
+            <dateline>
+               <date when="1912-03-02">March 2.</date>
+               <lb/><placeName>Melbury</placeName>, <placeName ref="https://www.geonames.org/2651101">Dorchester</placeName>.
+            </dateline>
+            <opener>
+               <salute>Dear <persName ref="https://viaf.org/viaf/54148778">Mr. Hardy</persName>,</salute>
+            </opener>
+            
+            <p>
+               I have been waiting<lb/>
+               to write to you until<lb/>
+               the weather had im-<lb/>
+               proved a little, &amp;<lb/>
+               ask you when it<lb/>
+               would suit you to<lb/>
+               come
+            </p>
+            
+            <pb n="2" facs="uoedh_hl_h.3661_2.jpg"/>
+            
+            <p>
+               here &amp; spend a day<lb/>
+               (if you will not<lb/>
+               stay longer) &amp; see<lb/>
+               the place. Would<lb/>
+               Monday March 11<hi rend="sup">th</hi><lb/>
+               suit you; or would you<lb/>
+               prefer &amp; come a<lb/>
+               little later on in<lb/>
+               April?
+            </p>
+            
+            <pb n="3" facs="uoedh_hl_h.3661_3.jpg"/>
+            
+            <p>
+               It shall be just<lb/>
+               as you like, &amp; if we<lb/>
+               could persuade you to<lb/>
+               stay here, we should<lb/>
+               be only too pleased.
+            </p>
+            
+            <closer>
+               <salute>Believe me,</salute><lb/>
+               <salute>Sincerely yrs.</salute><lb/>
+               <signed>Helen Ilchester</signed>
+            </closer>
+            
+            <pb n="4" facs="uoedh_hl_h.3661_4.jpg"/>
+            <note type="archival">Final page blank; shelfmark “H. 3661” in pencil.</note>
+         </div>
+      </body>
+   </text>
+</TEI>
+
