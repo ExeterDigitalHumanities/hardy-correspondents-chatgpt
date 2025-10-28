@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Letter from the Countess of Ilchester to Thomas Hardy (H.3661)</title>
+            <title>Letter to Thomas Hardy from C.L.B. (H.838)</title>
             <respStmt>
                <resp>Diplomatic TEI P5 transcription</resp>
                <name>ChatGPT</name>
@@ -12,27 +12,28 @@
          <publicationStmt>
             <publisher>—</publisher>
             <availability status="restricted">
-               <p>For scholarly use.</p>
+               <p>For scholarly use only.</p>
             </availability>
          </publicationStmt>
          <sourceDesc>
             <msDesc>
                <msIdentifier>
-                  <idno>H.3661</idno>
+                  <idno>H.838</idno>
                </msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc>
-                        <support>Autograph letter signed, 3 written pages on printed stationery (“MELBURY, DORCHESTER.”); 1 blank page.</support>
+                        <support>Autograph letter signed, eight manuscript pages, written recto and verso on bifolia, headed stationery “666 Centre St., Newton Mass., U.S.A.”</support>
                      </supportDesc>
                   </objectDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate when="1912-03-02">March 2, 1912</origDate>
+                     <origDate when="1917-11-24">Oct./Nov. 24 1917</origDate>
                      <origPlace>
-                        <placeName>Melbury</placeName>, 
-                        <placeName ref="https://www.geonames.org/2651101">Dorchester</placeName>
+                        <placeName ref="https://www.geonames.org/4944994">Newton</placeName>,
+                        <placeName ref="https://www.geonames.org/6252001">Massachusetts</placeName>,
+                        <placeName ref="https://www.geonames.org/6252001">U.S.A.</placeName>
                      </origPlace>
                   </origin>
                </history>
@@ -43,10 +44,10 @@
       <profileDesc>
          <correspDesc>
             <correspAction type="sent">
-               <persName>Helen, Countess of Ilchester</persName>
-               <placeName>Melbury</placeName>
-               <placeName ref="https://www.geonames.org/2651101">Dorchester</placeName>
-               <date when="1912-03-02">March 2, 1912</date>
+               <persName>C.L.B.</persName>
+               <placeName ref="https://www.geonames.org/4944994">Newton</placeName>,
+               <placeName ref="https://www.geonames.org/6252001">Massachusetts</placeName>
+               <date when="1917-11-24">Oct./Nov. 24 1917</date>
             </correspAction>
             <correspAction type="received">
                <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>
@@ -58,64 +59,101 @@
    <text>
       <body>
          <div type="letter">
-            <pb n="1" facs="uoedh_hl_h.3661_1.jpg"/>
-            <note type="letterhead">
-               <hi rend="smallcaps">MELBURY, DORCHESTER.</hi><lb/>
-               <seg>Station: <placeName>Yeovil Junction</placeName> (S.W.R.)</seg>; 
-               <seg>Telegraph &amp; Parcels: <placeName ref="https://www.geonames.org/2649837">Evershot</placeName> (G.W.R.).</seg>
-            </note>
-            <dateline>
-               <date when="1912-03-02">March 2.</date>
-               <lb/><placeName>Melbury</placeName>, <placeName ref="https://www.geonames.org/2651101">Dorchester</placeName>.
-            </dateline>
+            <pb n="1" facs="uoedh_hl_h.838_1.jpg"/>
             <opener>
+               <dateline>
+                  <address>666 Centre St.<lb/>
+                     <placeName ref="https://www.geonames.org/4944994">Newton</placeName>, 
+                     <placeName ref="https://www.geonames.org/6252001">Mass.</placeName> 
+                     <placeName ref="https://www.geonames.org/6252001">U.S.A.</placeName>
+                  </address><lb/>
+                  <date when="1917-11-24">Oct. Nov. 24 1917</date>
+               </dateline>
                <salute>Dear <persName ref="https://viaf.org/viaf/54148778">Mr. Hardy</persName>,</salute>
             </opener>
             
-            <p>
-               I have been waiting<lb/>
-               to write to you until<lb/>
-               the weather had im-<lb/>
-               proved a little, &amp;<lb/>
-               ask you when it<lb/>
-               would suit you to<lb/>
-               come
-            </p>
+            <p>I have long wanted to write you<lb/>
+               a few words of appreciation of your art—<lb/>
+               ever since I first read <hi>The Woodlanders</hi><lb/>
+               three years ago—but I’ve never</p>
             
-            <pb n="2" facs="uoedh_hl_h.3661_2.jpg"/>
+            <pb n="2" facs="uoedh_hl_h.838_2-3.jpg"/>
             
-            <p>
-               here &amp; spend a day<lb/>
-               (if you will not<lb/>
-               stay longer) &amp; see<lb/>
-               the place. Would<lb/>
-               Monday March 11<hi rend="sup">th</hi><lb/>
-               suit you; or would you<lb/>
-               prefer &amp; come a<lb/>
-               little later on in<lb/>
-               April?
-            </p>
+            <p>quite dared—fearing that my poor, uncouth<lb/>
+               words might be unwelcome—that you might<lb/>
+               at best think me a silly, doting creature.<lb/>
+               So, though I never dared address you<lb/>
+               with thanks for your works—I am now<lb/>
+               writing to you as a last resort, in the<lb/>
+               direst need! Please, <persName ref="https://viaf.org/viaf/54148778">Mr. Hardy</persName>, forgive my<lb/>
+               temerity—and please help me!<lb/>
+               My trouble is a terribly subtle one —</p>
             
-            <pb n="3" facs="uoedh_hl_h.3661_3.jpg"/>
+            <pb n="3" facs="uoedh_hl_h.838_4.jpg"/>
             
-            <p>
-               It shall be just<lb/>
-               as you like, &amp; if we<lb/>
-               could persuade you to<lb/>
-               stay here, we should<lb/>
-               be only too pleased.
-            </p>
+            <p>Tell me what the trouble is —<lb/>
+               I am not a pampered child of luxury—but I have a comfortable home —<lb/>
+               (my father is a surgeon in the Navy) & the<lb/>
+               dearest parents in the world —& a sister &<lb/>
+               two automobiles — & a grand piano.<lb/>
+               I am twenty years old (Past Aug. 22nd)<lb/>
+               & study music at the Conservatory in <placeName ref="https://www.geonames.org/4930956">Boston</placeName>.<lb/>
+               I used, once upon a time, to love my music—</p>
+            
+            <pb n="4" facs="uoedh_hl_h.838_5.jpg"/>
+            
+            <p>It was life itself to me. But now, I loathe<lb/>
+               it—so that I have decided to give it up.<lb/>
+               It tortures me to even think of the whole<lb/>
+               hateful business—piano—harmony—employment—<lb/>
+               profession.<lb/>
+               What is the matter—<lb/>
+               I seem so different<lb/>
+               from everybody else—Only the people in<lb/>
+               your beloved books seem at all like me.<lb/>
+               Temperamentally I am a mixture of Jude & Eustacia—without any of goddess qualities either.</p>
+            
+            <pb n="5" facs="uoedh_hl_h.838_6-7.jpg"/>
+            
+            <p>Now, <persName ref="https://viaf.org/viaf/54148778">Mr. Hardy</persName>—do you know what ails me? I am<lb/>
+               engaged to the dearest man in the world—but I don’t even<lb/>
+               care much for him & don’t want to marry him—<lb/>
+               oh it is so abominable to be of no use in this world—<lb/>
+               I used to have dreams of being a<lb/>
+               great concert pianist—but these are shattered now—<lb/>
+               & I don’t even care to be one! I feel, after having<lb/>
+               read all your works, that you will understand me if<lb/>
+               anyone can! Please help me!<lb/>
+               I wish I could express my admiration of your books—<lb/>
+               I have loved & lived them for so long.—They are the only real<lb/>
+               things in the world to me. I wish you might know their<lb/>
+               effect on me—they kill me almost—so terribly true—<lb/>
+               And how you feel Nature—and such at my place! My only wish is<lb/>
+               to visit the heathlands of Egdon Heath—the Beal—the Vale of Blackmore—<lb/>
+               the cliff without name & the other dear places! I love the <hi>The Woodlanders</hi><lb/>
+               best of all your books—<hi>The Return of the Native</hi> a 2nd!<lb/>
+               <persName>Charlotte Logan Bartlett</persName>.</p>
+            
+            <pb n="6" facs="uoedh_hl_h.838_7.jpg"/>
+            
+            <p>I love your prefaces—especially<lb/>
+               this: “The place is permanently the region of dream and story—<lb/>
+               The hollowed triple hill folk-like faces. The heathy wind—<lb/>
+               the eternal sobbing of the rain upon the bloom of a dusk.” <lb/>
+               The fact that seems to be torn from the very soul of <placeName ref="https://www.geonames.org/2633563">England</placeName>—<lb/>
+               like one again born there. <lb/>
+               I hope I may see you some day. I have two pictures of you on my desk!<lb/>
+               <date when="1917-11-24">Nov. 24 1917</date> —<lb/>
+               Please forgive my writing so much & please help me.</p>
+            
+            <pb n="7" facs="uoedh_hl_h.838_8.jpg"/>
             
             <closer>
-               <salute>Believe me,</salute><lb/>
-               <salute>Sincerely yrs.</salute><lb/>
-               <signed>Helen Ilchester</signed>
+               <salute>Yours in great admiration,</salute><lb/>
+               <signed>Charlotte Logan Bartlett</signed><lb/>
+               <address>666 Centre St., <placeName ref="https://www.geonames.org/4944994">Newton</placeName>, <placeName ref="https://www.geonames.org/6252001">Mass.</placeName>, <placeName ref="https://www.geonames.org/6252001">U.S.A.</placeName></address>
             </closer>
-            
-            <pb n="4" facs="uoedh_hl_h.3661_4.jpg"/>
-            <note type="archival">Final page blank; shelfmark “H. 3661” in pencil.</note>
          </div>
       </body>
    </text>
 </TEI>
-
