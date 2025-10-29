@@ -15,8 +15,11 @@
                   <idno>H.2389</idno>
                </msIdentifier>
                <physDesc>
-                  <p>Six pages on letterhead of <hi>The Theatre Magazine</hi> (Sydney, Australia), printed in black type. Written in brown ink, cursive hand, right-slanting and fluid. The letter exhibits cross-writing and slight show-through on thin cream paper, folded once horizontally. Pencil annotation at top right of first leaf: "Inverni, Old Windsor Road, Wentworthville, near Parramatta, N.S.W."</p>
+                  <p>Six pages on cream wove paper bearing printed black letterhead of <hi>The Theatre Magazine</hi> (Sydney, Australia). Written in brown ink, right-slanting cursive hand, with light show-through. Paper is thin, folded once horizontally. Several pencil annotations appear in a different hand.</p>
                </physDesc>
+               <note type="stationery">Printed letterhead reads: “THE THEATRE MAGAZINE (THEATRE LIMITED) / with which is incorporated THE AUSTRALASIAN PICTURE MAGAZINE / Published Monthly / Lyceum Theatre Buildings, 214 Pitt Street, Sydney, Australia / Edited and Conducted by R. R. F. Hill.”</note>
+               <note type="annotation">A pencilled note in the upper right corner of the first page reads: “Inverni, Old Windsor Road, Wentworthville, near Parramatta, N.S.W.”</note>
+               <note type="hand">The hand is fluent, moderately slanted, and consistent throughout, likely written in one sitting. The brown ink suggests a dip pen. Occasional underlining indicates emphasis.</note>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -33,6 +36,9 @@
                <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
             </correspAction>
          </correspDesc>
+         <note type="context">
+            <p><persName ref="https://viaf.org/viaf/52086841">Lala Fisher</persName> (1869–1929) was an Australian poet, playwright, and journalist known for her verses and short fiction exploring love, loss, and moral themes. Active in Sydney literary circles, she contributed to and later became associated with <hi>The Theatre Magazine</hi>, a monthly publication combining coverage of drama, literature, and the emerging motion picture industry. The magazine’s editor, <persName ref="https://viaf.org/viaf/61295254">Richard Robert Frank Hill</persName>, mentioned in this letter, was both Fisher’s collaborator and partner. This letter reflects her deep admiration for <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName> and his writings, particularly his poetry and novels, which she and her circle in Sydney read collectively as part of their literary and moral discourse.</p>
+         </note>
       </profileDesc>
    </teiHeader>
    
