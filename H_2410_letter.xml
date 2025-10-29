@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Letter from Marie Flavell to Thomas Hardy — 6 March 1925</title>
+        <author><persName>Marie Flavell</persName></author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished autograph letter held at the Dorset History Centre / Dorset Museum, MS H.2410.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Dorset History Centre / Dorset Museum</repository>
+            <idno>H.2410</idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Two-leaf note-paper (4 pages including blanks), smooth cream wove paper; written in blue ink in a neat, right-slanting cursive hand. Single horizontal fold; light show-through.</p>
+          </physDesc>
+          <note type="stationery">Right‑hand heading in manuscript gives school address: “Girls’ High School, Lytham Rd., Blackpool.”</note>
+          <note type="annotation">Pencilled editorial note beneath signature: ‘in “A Pair of Blue Eyes”; The “Cliff without a name,” so far as it is anywhere, is near Beeny, about a mile from Boscastle. See Mr Hardy’s “Collected Poems,” 1 vol. (Macmillan &amp; Co., publishers). — See!’</note>
+          <note type="hand">Single hand throughout; blue ink; steady rounded letterforms with long descenders; likely steel nib fountain pen.</note>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <abstract>
+        <p>Writing from the Girls’ High School, Blackpool, Marie Flavell asks <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName> to identify the location of the “Cliff without a name,” noting its appearance on maps and a recollection of a reference in <hi>Tess of the d’Urbervilles</hi>; an editorial pencil note associates the spot with <placeName ref="https://www.geonames.org/2656051">Beeny</placeName> near <placeName ref="https://www.geonames.org/2655207">Boscastle</placeName>.</p>
+      </abstract>
+
+      <correspDesc>
+        <correspAction type="sent">
+          <persName>Marie Flavell</persName>
+          <placeName ref="https://www.geonames.org/2655459">Blackpool</placeName>
+          <date when="1925-03-06">6–3–25</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>
+          <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+        </correspAction>
+      </correspDesc>
+
+      <note type="context">
+        <p>Marie Flavell (unidentified in VIAF) writes from the Girls’ High School, <placeName ref="https://www.geonames.org/2655459">Blackpool</placeName>, requesting topographical clarification from novelist and poet <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>. The enquiry references Hardy’s Cornwall settings; the pencilled editorial note connects the query with scenes from <hi>A Pair of Blue Eyes</hi> and points to a location near <placeName ref="https://www.geonames.org/2656051">Beeny</placeName> and <placeName ref="https://www.geonames.org/2655207">Boscastle</placeName>.</p>
+      </note>
+    </profileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <pb facs="uoedh_hl_h.2410_1.jpg"/>
+      <opener>
+        <dateline>Girls’ High School, Lytham Rd., <placeName ref="https://www.geonames.org/2655459">Blackpool</placeName>.<lb/>
+          <date when="1925-03-06">6–3–25.</date>
+        </dateline>
+        <salute>Dear <persName ref="https://viaf.org/viaf/49245702">Mr Hardy</persName>,</salute>
+      </opener>
+
+      <p>I’m very sorry to trouble you, but I have been wondering whether you can tell me where the “Cliff without a name” is.<lb/>
+      It appears on the maps, and as far as I remember it is mentioned in <hi>Tess of the D’Urbervilles</hi>.<lb/>
+      I am very interested in it as I live in <placeName ref="https://www.geonames.org/2654408">Bude</placeName>, and know that particular part of the coast fairly well.</p>
+
+      <pb facs="uoedh_hl_h.2410_2.jpg"/>
+      <p/>
+      <pb facs="uoedh_hl_h.2410_3.jpg"/>
+      <closer>
+        <p>Hoping I am not giving you a great deal of trouble;<lb/>
+        I remain;<lb/>
+        Yours sincerely,<lb/>
+        <signed>Marie Flavell.</signed></p>
+      </closer>
+
+      <pb facs="uoedh_hl_h.2410_4.jpg"/>
+    </body>
+  </text>
+</TEI>
