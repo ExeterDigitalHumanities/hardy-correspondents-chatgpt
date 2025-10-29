@@ -1,0 +1,51 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Y.H. to “My dear May” — 21 November 1862</title>
+            <author><persName ref="https://viaf.org/viaf/unknown">Y. H.</persName></author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished manuscript letter, held in University of Edinburgh Library, MS H.1987.281.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>University of Edinburgh Library</repository>
+                  <idno>H.1987.281</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Two-page autograph letter on cream paper, brown ink, with several cancellations and interlinear additions. Hand consistent, cursive, slanted to the right. Paper shows slight folding. Some sections heavily crossed through in darker ink.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <pb facs="uoedh_hl_h.1987.281_1.jpg"/>
+         <dateline>
+            <placeName ref="https://www.geonames.org/2648110">Kilburn</placeName>, 
+            <date when="1862-11-21">21/11/62</date>
+         </dateline>
+         <p>(written overnight) at <placeName ref="https://www.geonames.org/2648110">Kilburn</placeName></p>
+         
+         <p>My dear May,<lb/>
+            I suppose you are very glad that Xmas is coming.<lb/>
+            Do not send back the Sat. Night books — take care of them and put them in your box, so that I may have them when I want them.<lb/>
+            I wish you wd. tell me how u.r. when u. write. I have a <del>cold</del> “cowld in by head,” so I have staid in all day to be all right to morrow.<lb/>
+            Last Friday night there was a conversazione (pronounced “kon-ver-sat-zio-ne”) at the Architectural Association’s rooms. There were about 300, or 400 present, including your humble servant. <persName ref="https://viaf.org/viaf/51747985">Mr. Blomfield</persName>, one of the Committee, gave me a ticket, and <persName ref="https://viaf.org/viaf/unknown">Mr. Bunker</persName>, another Committee man, another, etc. I gave to Shaw and we went together. After lots of speeches (fying from learned professors), there was music &amp;c, and coffee — this last rather in small quantities. Many ladies were there, and of course in full dress. Shaw lent me a dress coat (his), as I did not possess one. My name was proposed among many others, for becoming a member.</p>
+         
+         <pb facs="uoedh_hl_h.1987.281_2.jpg"/>
+         <p>Miss A. and Father went off all right, as you hear.<lb/>
+            Do you ever write to Eliza? Father enjoyed himself, though. I took them to hear the Opera of <hi>Guillaume Tell</hi> at <placeName ref="https://www.geonames.org/2643743">Covent Garden</placeName>, but nothing would satisfy Father unless he went to see the <placeName ref="https://www.geonames.org/2643744">Thames Tunnel</placeName>. This, you know, is 5 or 6 miles from <placeName ref="https://www.geonames.org/2645619">Kilburn</placeName>, and lies in one of the lowest and most crowded parts of <placeName ref="https://www.geonames.org/2643743">London</placeName>. Accordingly, one morning he started off alone, agreeing to meet Miss A. at the foot of the Monument on <placeName ref="https://www.geonames.org/2643364">Tower Hill</placeName> at 1 o’clock.<lb/>
+            She had been somewhere out eastward during the morning. What is to be wondered at is the fact that they actually did meet to a minute! — but as Father was there a little too soon, he went to the top of the Monument (200 feet). <gap reason="overwritten"/> Well they went to the T.T. together &amp; came home all right.</p>
+         
+         <p>I expect to come home Xmas for a little time. Frank Lock is living in <placeName ref="https://www.geonames.org/2643743">London</placeName> &amp; is coming to see me. Perhaps Shaw may come down with me for a day or two Xmas. It will be good fun, he is such a “coddle” and I paying the outing.<lb/>
+            I am very economical of paper as u. may see.<lb/>
+            Goodbye — Henry wrote yesterday.<lb/>
+            Y. H.</p>
+      </body>
+   </text>
+</TEI>

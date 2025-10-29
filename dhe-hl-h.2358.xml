@@ -1,0 +1,55 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Millicent Garrett Fawcett to Thomas Hardy — 15 April 1892</title>
+            <author><persName ref="https://viaf.org/viaf/7384985">Millicent Garrett Fawcett</persName></author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished autograph letter held at the Dorset Museum / Dorset History Centre, MS H.2358.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Dorset Museum / Dorset History Centre</repository>
+                  <idno>H.2358</idno>
+               </msIdentifier>
+               <physDesc>
+                  <p>Five pages written on cream wove paper, medium thickness. Ink varies in tone—mainly dark brown and black, suggesting revision in multiple sittings. The handwriting is neat and legible, slanted right, with characteristic long descenders and open loops. Some words are struck out or rewritten, here represented with &lt;unclear&gt;. Paper slightly speckled, likely laid. No watermark visible.</p>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <pb facs="uoedh_hl_h.2358_1.jpg"/>
+         <dateline>
+            <placeName ref="https://www.geonames.org/2643743">London</placeName>, 
+            <date when="1892-04-15">April 15. 92</date>
+         </dateline>
+         <address>2, <placeName ref="https://www.geonames.org/2648110">Gower Street</placeName>. London W.C.</address>
+         
+         <p>Dear <persName ref="https://viaf.org/viaf/49245702">Mr Hardy</persName>,<lb/>
+            I do not expect you will remember me but I will try to recall myself to you by mentioning that I had the pleasure of meeting you &amp; Mrs Hardy at Lady Portsmouth’s London house two or three years ago.<lb/>
+            I have been very full of admiration for your <hi>Tess</hi> and of real gratitude to you for writing it, but I should not have intended so far to tell you this, which must be an old story to you.<lb/></p>
+         
+         <pb facs="uoedh_hl_h.2358_2.jpg"/>
+         <p>My object in writing is to ask if you — no one could do it half as well — would write a short story within the limits of thought and language that could be readily comprehended by working boys &amp; girls on the shipwreck of what ought to be the most beautiful thing in their lives — what comes of treating love between man &amp; woman with lightness and irreverence.<lb/></p>
+         
+         <pb facs="uoedh_hl_h.2358_3.jpg"/>
+         <p>What I want to see made plain in a story is that the very holiness &amp; beauty of the thing at its best makes any trifling with only the physical part of it result in corruption — “Lilies that fester smell far worse than weeds.”<lb/>
+            I work with some friends to help girls who have gone wrong to get on their feet again and we see so much of the utter want of apprehension that there is any high and noble side to this thing that they have <unclear reason="overwriting">shipwrecked</unclear> in; it is difficult to get even a glimmer of it through to them, and I imagine it would be even more difficult in the case of men of the corresponding type.<lb/></p>
+         
+         <pb facs="uoedh_hl_h.2358_2-3.jpg"/>
+         <p>Could a small prose help to make it serious that men may read?</p>
+         
+         <pb facs="uoedh_hl_h.2358_4.jpg"/>
+         <closer>
+            <salute>Believe me<br/>yours very gratefully</salute><lb/>
+            <signed><persName ref="https://viaf.org/viaf/7384985">Millicent Fawcett</persName></signed>
+         </closer>
+      </body>
+   </text>
+</TEI>
