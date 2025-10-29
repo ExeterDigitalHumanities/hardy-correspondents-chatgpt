@@ -1,0 +1,355 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/manifest/h.2573",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Dossier relating to the death of Second Lieutenant Frank William George — letter from Brig.-Gen. Caldecott Hampson; telegram from Bertha George; newspaper clippings — August–September 1915"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Dossier concerning the death in the Dardanelles of Second Lieutenant Frank William George (5th Battalion, Dorset Regiment), a cousin of"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Caldecott Hampson"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Creator VIAF"
+        ]
+      },
+      "value": {
+        "en": [
+          ""
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Addressee"
+        ]
+      },
+      "value": {
+        "en": [
+          "Thomas Hardy"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Addressee VIAF"
+        ]
+      },
+      "value": {
+        "en": [
+          "https://viaf.org/viaf/49245702"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "24/8/15 (1915-08-24)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository"
+        ]
+      },
+      "value": {
+        "en": [
+          "Dorset History Centre / Dorset Museum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Identifier"
+        ]
+      },
+      "value": {
+        "en": [
+          "H.2573 (a–c)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Sent from"
+        ]
+      },
+      "value": {
+        "en": [
+          "“Suvla Bay” (Dardanelles)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Received at"
+        ]
+      },
+      "value": {
+        "en": [
+          "Dorchester (https://www.geonames.org/2651347)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Context"
+        ]
+      },
+      "value": {
+        "en": [
+          "Frank William George, barrister and officer in the 5th Battalion, Dorset Regiment, was a cousin of"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Stationery imprint"
+        ]
+      },
+      "value": {
+        "en": [
+          "Telegram on standard British Post Office Telegraphs form; office stamp reads “"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Editorial annotations"
+        ]
+      },
+      "value": {
+        "en": [
+          "Pencilled docketing and page numbering visible on some versos."
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/iiif/manifest/h.2573/canvas/1",
+      "type": "Canvas",
+      "height": 4000,
+      "width": 3000,
+      "label": {
+        "en": [
+          "Page 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.2573/page/1/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.2573/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.2573a_1.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4000,
+                "width": 3000
+              },
+              "target": "https://example.org/iiif/manifest/h.2573/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.2573/canvas/2",
+      "type": "Canvas",
+      "height": 4000,
+      "width": 3000,
+      "label": {
+        "en": [
+          "Page 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.2573/page/2/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.2573/page/2/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.2573a_2.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4000,
+                "width": 3000
+              },
+              "target": "https://example.org/iiif/manifest/h.2573/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.2573/canvas/3",
+      "type": "Canvas",
+      "height": 4000,
+      "width": 3000,
+      "label": {
+        "en": [
+          "Page 3"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.2573/page/3/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.2573/page/3/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.2573b_1.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4000,
+                "width": 3000
+              },
+              "target": "https://example.org/iiif/manifest/h.2573/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.2573/canvas/4",
+      "type": "Canvas",
+      "height": 4000,
+      "width": 3000,
+      "label": {
+        "en": [
+          "Page 4"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.2573/page/4/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.2573/page/4/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.2573b_2.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4000,
+                "width": 3000
+              },
+              "target": "https://example.org/iiif/manifest/h.2573/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.2573/canvas/5",
+      "type": "Canvas",
+      "height": 4000,
+      "width": 3000,
+      "label": {
+        "en": [
+          "Page 5"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.2573/page/5/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.2573/page/5/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.2573c_1.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4000,
+                "width": 3000
+              },
+              "target": "https://example.org/iiif/manifest/h.2573/canvas/5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.2573/canvas/6",
+      "type": "Canvas",
+      "height": 4000,
+      "width": 3000,
+      "label": {
+        "en": [
+          "Page 6"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.2573/page/6/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.2573/page/6/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.2573c_2.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4000,
+                "width": 3000
+              },
+              "target": "https://example.org/iiif/manifest/h.2573/canvas/6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

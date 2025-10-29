@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dossier relating to the death of Second Lieutenant Frank William George — letter from Brig.-Gen. Caldecott Hampson; telegram from Bertha George; newspaper clippings — August–September 1915</title>
+        <author>
+          <persName>Caldecott Hampson</persName>
+        </author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished manuscript and printed materials held at the Dorset History Centre / Dorset Museum, MS H.2573 (a–c).</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Dorset History Centre / Dorset Museum</repository>
+            <idno>H.2573 (a–c)</idno>
+          </msIdentifier>
+          <physDesc>
+            <p>Set comprising: (a) one leaf of lined paper in pencil (letter), (b) one printed Post Office Telegraphs form completed in graphite (telegram), (c) one sheet with newspaper clippings mounted, from <hi>The Times</hi>, 3 Sept. 1915. Paper shows creases and light staining; adhesive traces on the telegram and the clippings leaf. Some show-through from versos.</p>
+          </physDesc>
+          <note type="stationery">Telegram on standard British Post Office Telegraphs form; office stamp reads “<placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>”.</note>
+          <note type="annotation">Pencilled docketing and page numbering visible on some versos.</note>
+          <note type="hand">Letter (a) written in a single rapid cursive hand in pencil; signature “Caldecott Hampson, Brig.-General, 34th Inf. Brigade”. Telegram (b) in a different hand, graphite. Clippings (c) printed.</note>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <abstract>
+        <p>Dossier concerning the death in the Dardanelles of Second Lieutenant Frank William George (5th Battalion, Dorset Regiment), a cousin of <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>. It includes a letter from Brigadier-General Caldecott Hampson reporting George’s death and gallantry (24 Aug. 1915), a telegram from <persName>Bertha George</persName> to Hardy, and clippings from <hi>The Times</hi> of 3 Sept. 1915.</p>
+      </abstract>
+
+      <correspDesc xml:id="cdh-letter">
+        <correspAction type="sent">
+          <persName>Caldecott Hampson</persName>
+          <placeName>“Suvla Bay” (Dardanelles)</placeName>
+          <date when="1915-08-24">24/8/15</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>
+          <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+        </correspAction>
+      </correspDesc>
+
+      <correspDesc xml:id="telegram">
+        <correspAction type="sent">
+          <persName>Bertha George</persName>
+          <placeName ref="https://www.geonames.org/2656069">Bere Regis</placeName>
+          <date when="1915-08-23"><unclear>23 Aug 1915</unclear></date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>
+          <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+        </correspAction>
+      </correspDesc>
+
+      <note type="context">
+        <p>Frank William George, barrister and officer in the 5th Battalion, Dorset Regiment, was a cousin of <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName> through George’s mother (née Hardy). He was killed during the Gallipoli campaign in August 1915. The items here document his death notification and subsequent printed notices.</p>
+      </note>
+    </profileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+
+      <!-- H.2573(a): Letter from Brig.-Gen. Caldecott Hampson -->
+      <div type="item" subtype="letter" xml:id="h2573a">
+        <head>Letter from Brig.-Gen. Caldecott Hampson to Thomas Hardy</head>
+        <pb facs="uoedh_hl_h.2573a_1.jpg"/>
+        <opener>
+          <dateline><placeName>“Suvla Bay”</placeName> <date when="1915-08-24">24/8/15</date></dateline>
+          <salute>Dear <persName ref="https://viaf.org/viaf/49245702">Mr Hardy</persName>,</salute>
+        </opener>
+        <p>I am very sorry to have to tell you that <persName>Mr George</persName> was killed on 21st inst — just as his Company was leaving the trenches to attack. I was not with the Regt. myself as I took over command of the Brigade on the 19th. His Company Commander — <persName>Captain Gregory</persName> — told me (as he was going back wounded) that George died before he could be moved into safety.<lb/>
+        George had done splendidly since we started fighting on the 7th. On the 17th he distinguished himself particularly, &amp; brought great credit to the 5th Dorset Regt., by rushing a Turkish trench with his Platoon, bayonetting some 8 or 10 Turks &amp; bringing back 14 prisoners. I sent his name forward for reward &amp; it was forwarded by the Brigade.</p>
+        <p>I write all this to you with the request that you will let his people know. All papers &amp; addresses of next-of-kin were lost when my Adjutant was killed on the 17th inst, otherwise I shd not trouble you. The 5th Dorsets have done splendidly, but at a great cost, as our casualties have been 21 officers &amp; over 500 men, killed, wounded, &amp; missing.</p>
+        <closer>
+          <salute>Believe me</salute><lb/>
+          <signed>Yours sincerely,<lb/>Caldecott Hampson<lb/>(Brig.-General, 34th Inf. Brigade)</signed>
+        </closer>
+        <pb facs="uoedh_hl_h.2573a_2.jpg"/>
+      </div>
+
+      <!-- H.2573(b): Telegram from Bertha George -->
+      <div type="item" subtype="telegram" xml:id="h2573b">
+        <head>Post Office Telegram from Bertha George to Thomas Hardy</head>
+        <pb facs="uoedh_hl_h.2573b_1.jpg"/>
+        <p><seg type="telegramHeading">Post Office Telegraphs</seg><lb/>
+        <seg type="origin">[<placeName ref="https://www.geonames.org/2656069">Bere Regis</placeName>]</seg><lb/>
+        <seg type="addressee">To: <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>, Max Gate, <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName></seg><lb/>
+        <seg type="message">Frank <unclear>was</unclear> killed on <date when="1915-08-22">22nd</date>.</seg><lb/>
+        <seg type="signature"><persName>Bertha George</persName></seg></p>
+        <pb facs="uoedh_hl_h.2573b_2.jpg"/>
+      </div>
+
+      <!-- H.2573(c): Newspaper clippings -->
+      <div type="item" subtype="clippings" xml:id="h2573c">
+        <head>Newspaper clippings: The Times, Friday, September 3, 1915</head>
+        <pb facs="uoedh_hl_h.2573c_1.jpg"/>
+        <p><hi>Fallen Officers.</hi> “The Times” List of Casualties. Biographies and Services.</p>
+        <quote>
+          <p><hi>Second Lieutenant Frank William George</hi>, 5th Dorset Regiment, barrister, who was killed in Gallipoli on August 22, was the eldest son of the late Mr William George, of Southbrook, <placeName ref="https://www.geonames.org/2656069">Bere Regis</placeName>, Dorset, and through his mother, née Hardy, was a cousin of Mr <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>, O.M., of Max Gate, <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>. … He accepted a commission in the Gloucesters, and also in the Dorset Regiment, the latter of which he accompanied to the Dardanelles at the beginning of July last. He was unmarried.</p>
+        </quote>
+        <p><hi>The Casualty Lists.</hi> GEORGE, SEC. LIEUT. F. W., 5th Dorset Regt.</p>
+        <p><hi>Killed in action.</hi> George — Killed in action, in Gallipoli, on Sunday, the 22nd Aug., Second-Lieut. Frank William George, 5th Battalion Dorset Regt., son of the late W. George, of Southbrook, Bere Regis, and cousin and friend of T. Hardy, Max Gate, Dorchester.</p>
+        <pb facs="uoedh_hl_h.2573c_2.jpg"/>
+      </div>
+
+    </body>
+  </text>
+</TEI>
