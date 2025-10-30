@@ -1,0 +1,86 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lady Helen Schechter to Thomas Hardy — On Dorchester plays &amp; invitation to Melbury, 17 November [191?]</title>
+        <author><persName ref="https://viaf.org/viaf/19148138">Lady Helen Schechter</persName></author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished autograph letter held at the Dorset History Centre / Dorset Museum, MS H.3661.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Dorset History Centre / Dorset Museum</repository>
+            <idno>H.3661</idno>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>Small bifolium of pale blue laid paper; written recto of four pages in black ink; deckled edges; light rust marks at inner margin.</p>
+                </support>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <p>Single column throughout; closing and signature on p.4.</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote script="cursive" medium="ink">
+                <p>Flowing right-slanted cursive, even spacing; emphatic underlining for dates and emphasis.</p>
+              </handNote>
+            </handDesc>
+          </physDesc>
+          <note type="stationery">Printed letterhead: “<hi>ABBOTSBURY CASTLE, DORCHESTER.</hi>”.</note>
+          <note type="annotation">Later pencil endorsement: “Lady Schechter [191?]”. Shelfmark “H.3661” in pencil on verso.</note>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>After seeing Hardy’s plays performed in <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>, <persName ref="https://viaf.org/viaf/19148138">Lady Helen Schechter</persName> writes to express her enjoyment and invites him to visit at <placeName ref="https://www.geonames.org/2642832">Melbury</placeName> when convenient.</p>
+      </abstract>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="https://viaf.org/viaf/19148138">Lady Helen Schechter</persName>
+          <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+          <date when="1911-11-17" cert="low">Nov. 17, [1911?]</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>
+          <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+        </correspAction>
+      </correspDesc>
+      <note type="context">
+        <p><persName ref="https://viaf.org/viaf/19148138">Lady Helen Schechter</persName> (Countess of Mecklenburg‑Strelitz) writes on Abbotsbury Castle stationery. The note comments on a local performance of Hardy’s works and extends a social invitation to visit the Melbury estate near <placeName ref="https://www.geonames.org/2650043">Evershot</placeName>.</p>
+      </note>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="item" subtype="letter">
+        <pb facs="uoedh_hl_h.3661_1.jpg"/>
+        <opener>
+          <dateline><date when="1911-11-17" cert="low">Nov. 17</date></dateline>
+          <salute>Dear <persName ref="https://viaf.org/viaf/49245702">Mr Hardy</persName>,</salute>
+        </opener>
+        <p>I feel I must write you a line to tell you how deeply I enjoyed seeing your plays in <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName> yesterday. I think I have read nearly all your books, but until this year I had never been able to see one of the plays, &amp; yesterday afternoon was certainly a delightful experience.</p>
+
+        <pb facs="uoedh_hl_h.3661_2.jpg"/>
+        <p>I have been anxious for some time to ask you whether you would come over and pay us a little visit at <placeName ref="https://www.geonames.org/2642832">Melbury</placeName>; it would be a great pleasure to both my husband &amp; myself to see you there, if you could spare the time to come to us.</p>
+
+        <pb facs="uoedh_hl_h.3661_3.jpg"/>
+        <p>I am going home next week &amp; shall be settled there some time; so perhaps you will try to find a spare minute &amp; visit us.</p>
+
+        <pb facs="uoedh_hl_h.3661_4.jpg"/>
+        <closer>
+          <salute>Believe me, sincerely yrs.</salute><lb/>
+          <signed>Helen Schechter</signed>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>

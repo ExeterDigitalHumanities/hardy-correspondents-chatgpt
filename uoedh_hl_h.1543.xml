@@ -1,0 +1,94 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gertrude Bugler to Thomas Hardy — Thanks for birthday books, 8 March 1925</title>
+        <author><persName>Gertrude Bugler</persName></author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished autograph note held at the Dorset History Centre / Dorset Museum, MS H.1543.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Dorset History Centre / Dorset Museum</repository>
+            <idno>H.1543</idno>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>Small bifolium of pale grey wove paper, written in violet-blue ink; deckled top edge; light rust staining at inner margin; verso sides largely blank.</p>
+                </support>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <p>Short two-part message across first recto and final page; closing and signature on the final page.</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote script="cursive" medium="ink" scope="major">
+                <p>Neat upright cursive in violet aniline ink; open letterforms; occasional long descenders; steady baselines.</p>
+              </handNote>
+            </handDesc>
+          </physDesc>
+          <note type="stationery">Possibly blind-embossed heading of residence (faint); no printed letterhead clearly legible.</note>
+          <note type="annotation">Pencilled date “1925.” and “March 8” at upper right of first page by later hand; shelfmark “H.1543” pencilled on verso.</note>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <abstract>
+        <p>Gertrude Bugler thanks <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName> for sending <hi>Woodlanders</hi> for her birthday and says she will always value the books; she is glad he is not annoyed with her about the Haymarket matinees.</p>
+      </abstract>
+
+      <correspDesc>
+        <correspAction type="sent">
+          <persName>Gertrude Bugler</persName>
+          <placeName ref="https://www.geonames.org/2656281">Beaminster</placeName>
+          <date when="1925-03-08">March 8, 1925</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>
+          <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+        </correspAction>
+      </correspDesc>
+
+      <note type="context">
+        <p><persName>Gertrude Bugler</persName> (1900–1997), Dorset actor associated with stage productions of Hardy’s works, writes regarding birthday gifts and mentions “Haymarket Matinees,” referring to performances at the Theatre Royal, <placeName ref="https://www.geonames.org/2643743">London</placeName>.</p>
+      </note>
+    </profileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="item" subtype="note">
+        <pb facs="uoedh_hl_h.1543_1.jpg"/>
+        <opener>
+          <dateline><date when="1925-03-08">1925, March 8</date></dateline>
+          <salute>Dear <persName ref="https://viaf.org/viaf/49245702">Mr Hardy</persName>,</salute>
+        </opener>
+
+        <p>I thank you very sincerely for sending the <hi>Woodlanders</hi> for my birthday; it is useless for me to try to tell you how much I shall always value my three beautiful books.</p>
+
+        <pb facs="uoedh_hl_h.1543_3.jpg"/>
+        <p>I am so very glad too to know that you are not annoyed with me about the Haymarket Matinees.</p>
+
+        <closer>
+          <salute>Yours sincerely</salute><lb/>
+          <signed>Gertrude Bugler</signed>
+        </closer>
+
+        <pb facs="uoedh_hl_h.1543_2.jpg"/>
+        <note type="blank">Blank page.</note>
+        <pb facs="uoedh_hl_h.1543_2-3.jpg"/>
+        <note type="blank">Blank spread.</note>
+        <pb facs="uoedh_hl_h.1543_4.jpg"/>
+        <note type="blank">Blank verso with pencilled shelfmark.</note>
+      </div>
+    </body>
+  </text>
+</TEI>
