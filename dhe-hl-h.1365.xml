@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mary O’Rourke to Thomas Hardy — Birthday greeting, 1 June 1926</title>
+            <author><persName>Mary O’Rourke</persName></author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished autograph letter held at the Dorset History Centre / Dorset Museum, MS H.1365.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Dorset History Centre / Dorset Museum</repository>
+                  <idno>H.1365</idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <p>One bifolium of cream wove paper, written on first page only; blue-black ink; vertical and horizontal folds; slight show-through on verso.</p>
+                        </support>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1">
+                           <p>Single column; generous margins; closing and signature aligned lower right.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="cursive" medium="ink" scope="major">
+                        <p>Even, right-slanting cursive with open loops and long descenders; occasional word-spacing variation; clear down-strokes; steady lineation.</p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+               <note type="stationery">No printed letterhead; heading supplied in manuscript.</note>
+               <note type="annotation">Shelfmark “H.1365” pencilled at head of verso (archival hand).</note>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <abstract>
+            <p>From the Old Vicarage in <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>, Mary O’Rourke sends <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName> birthday greetings, thanking him for kindnesses and wishing future happiness, recalling her three years at Max Gate.</p>
+         </abstract>
+         
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Mary O’Rourke</persName>
+               <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+               <date when="1926-06-01">1<hi rend="sup">st</hi> June 1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>
+               <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+            </correspAction>
+         </correspDesc>
+         
+         <note type="context">
+            <p>Mary O’Rourke served as housekeeper at <placeName>Max Gate</placeName>, home of novelist and poet <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>, in the 1920s. Her note reflects domestic familiarity with the Hardy household and marks Hardy’s birthday during O’Rourke’s tenure at Max Gate.</p>
+         </note>
+      </profileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="item" subtype="letter">
+            <pb facs="uoedh_hl_h.1365_1.jpg"/>
+            <opener>
+               <dateline>“The Old Vicarage, <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>.” <date when="1926-06-01">1<hi rend="sup">st</hi> June 1926</date></dateline>
+               <salute>Dear <persName ref="https://viaf.org/viaf/49245702">Mr Hardy</persName>,</salute>
+            </opener>
+            
+            <p>I cannot find in Dorchester a card which I like well enough to send you for your Birthday, so please accept a plain paper and ink greeting!<lb/>
+               I will make it brief because I know you will have so many.</p>
+            
+            <p>This is my third year with you, and dear Mrs Hardy, and <unclear>Wessie</unclear>, and I can frame no better wish than that the years ahead will make you as happy as my three years at <placeName>Max Gate</placeName> have made me.</p>
+            
+            <p>Thank you for all your kindness!</p>
+            
+            <closer>
+               <salute>Your sincerely</salute><lb/>
+               <signed>Mary O’Rourke</signed>
+            </closer>
+            
+            <pb facs="uoedh_hl_h.1365_2.jpg"/>
+         </div>
+      </body>
+   </text>
+</TEI>
