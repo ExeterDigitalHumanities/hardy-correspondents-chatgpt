@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Letter from Henry B. Amos (League for the Prohibition of Cruel Sports) to Thomas Hardy — 24 August 1926</title>
+            <author><persName>Henry B. Amos</persName></author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished autograph letter held at the Dorset History Centre / Dorset Museum, MS H.749.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>Dorset History Centre / Dorset Museum</repository>
+                  <idno>H.749</idno>
+               </msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <p>Two leaves of cream wove paper, ca. 178 × 115 mm, written recto only, in blue ink.  
+                              Printed letterhead upper left (page 1) on first sheet; ink slightly feathered in places.  
+                              Horizontal ruled guidelines faintly visible.</p>
+                        </support>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="c.22">
+                           <p>Single column of continuous text, left-aligned, with indented salutation and closer.  
+                              Signature below closing formula; docketed at foot of second page in pencil.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote script="cursive" medium="ink" scope="major">
+                        <p>Written in a quick, right-slanting cursive with large, looping ascenders.  
+                           The hand is regular but energetic; spacing close; descenders often elongated.  
+                           Occasional word-division errors (e.g. “any one”) and light underlining for emphasis.  
+                           Ink is dark blue, applied with a fountain pen.</p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+               
+               <note type="stationery">Printed letterhead: “LEAGUE for PROHIBITION of CRUEL SPORTS” with subheadings naming officers and committee members (including <persName>Sir George Greenwood</persName>, <persName>Ernest Bell</persName>, and <persName>Henry B. Amos</persName>) and the office address “York House, Portugal Street, London, W.C.2”.</note>
+               <note type="annotation">Pencil docket lower left verso: “<persName ref='https://viaf.org/viaf/49245702'>Thomas Hardy</persName>, O.M.” (later archivist hand).</note>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      
+      <profileDesc>
+         <abstract>
+            <p><persName>Henry B. Amos</persName>, Secretary of the <hi>League for the Prohibition of Cruel Sports</hi>, writes to <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName> seeking a message to be read at a forthcoming meeting condemning a stag-hunt.  Amos deplores the incident, arguing that hunts escape censure while ordinary citizens are prosecuted for lesser offences involving dogs.</p>
+         </abstract>
+         
+         <correspDesc>
+            <correspAction type="sent">
+               <persName>Henry B. Amos</persName>
+               <placeName ref="https://www.geonames.org/2643743">London</placeName>
+               <date when="1926-08-24">24.8.1926</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>
+               <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+            </correspAction>
+         </correspDesc>
+         
+         <note type="context">
+            <p><persName>Henry B. Amos</persName> (fl. 1910s–1930s) was Secretary of the <hi>League for the Prohibition of Cruel Sports</hi>, an early British pressure group advocating legislation to ban blood sports.  
+               Writing from <placeName ref="https://www.geonames.org/2643743">London</placeName>, he sought statements of support from leading literary figures such as <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName>.  
+               Hardy, who had long expressed sympathy for animal welfare, occasionally contributed public letters or endorsements to such campaigns.</p>
+         </note>
+      </profileDesc>
+   </teiHeader>
+   
+   <text>
+      <body>
+         <div type="item" subtype="letter">
+            <pb facs="uoedh_hl_h.749_1.jpg"/>
+            <opener>
+               <dateline><placeName ref="https://www.geonames.org/2643743">London</placeName>, <date when="1926-08-24">24.8.1926</date></dateline>
+               <salute>Sir,</salute>
+            </opener>
+            
+            <p>I presume to send you the enclosed and to ask for the favour of a brief message for our meeting on Friday.<lb/>
+               The whole district, from the Vicar, leading Councillors, and most prominent women to the poorest person, is against the disgraceful act of the Hunt driving a stag over the cliffs to instant death.  
+               But I want them to realise the enormity of the fact that whilst Hunts, with fifty dogs, get off for cruelties of this kind—</p>
+            
+            <pb facs="uoedh_hl_h.749_2.jpg"/>
+            <p>the householder <unclear>is</unclear> heavily fined or sent to prison if he worries a cat or sheep with his dog.<lb/>
+               You, more than any one, can say a word that will lift the whole subject into public consideration.  
+               I hope it may be my privilege to help give wings to such a message.</p>
+            
+            <closer>
+               <salute>Yours respectfully,</salute><lb/>
+               <signed>Henry B. Amos<lb/>Secretary</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
