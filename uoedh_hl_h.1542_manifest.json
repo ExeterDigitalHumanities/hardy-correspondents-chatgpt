@@ -1,0 +1,251 @@
+﻿﻿{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/manifest/h.1542",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Gertrude Bugler to Mrs Hardy — Declining the role of “Tess”, 4 February 1925"
+    ]
+  },
+  "summary": {
+    "en": [
+      "Bugler writes from Beaminster to decline the role of Tess, citing family reasons, and notes that Miss Thorndike may later produce the play."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ]
+      },
+      "value": {
+        "en": [
+          "Gertrude Bugler"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Addressee"
+        ]
+      },
+      "value": {
+        "en": [
+          "Mrs Hardy (Florence Emily Hardy)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Date"
+        ]
+      },
+      "value": {
+        "en": [
+          "1925-02-04"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository"
+        ]
+      },
+      "value": {
+        "en": [
+          "Dorset History Centre / Dorset Museum"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Identifier"
+        ]
+      },
+      "value": {
+        "en": [
+          "H.1542"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Place of writing"
+        ]
+      },
+      "value": {
+        "en": [
+          "Beaminster (GeoNames 2656281)"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/iiif/manifest/h.1542/canvas/1",
+      "type": "Canvas",
+      "height": 4500,
+      "width": 3200,
+      "label": {
+        "en": [
+          "Page 1"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.1542/page/1/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.1542/page/1/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.1542_1.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4500,
+                "width": 3200
+              },
+              "target": "https://example.org/iiif/manifest/h.1542/canvas/1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.1542/canvas/2",
+      "type": "Canvas",
+      "height": 4500,
+      "width": 3200,
+      "label": {
+        "en": [
+          "Page 2"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.1542/page/2/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.1542/page/2/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.1542_4.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4500,
+                "width": 3200
+              },
+              "target": "https://example.org/iiif/manifest/h.1542/canvas/2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.1542/canvas/3",
+      "type": "Canvas",
+      "height": 4500,
+      "width": 3200,
+      "label": {
+        "en": [
+          "Page 3"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.1542/page/3/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.1542/page/3/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.1542_2.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4500,
+                "width": 3200
+              },
+              "target": "https://example.org/iiif/manifest/h.1542/canvas/3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.1542/canvas/4",
+      "type": "Canvas",
+      "height": 4500,
+      "width": 3200,
+      "label": {
+        "en": [
+          "Page 4"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.1542/page/4/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.1542/page/4/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.1542_2-3.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4500,
+                "width": 3200
+              },
+              "target": "https://example.org/iiif/manifest/h.1542/canvas/4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.1542/canvas/5",
+      "type": "Canvas",
+      "height": 4500,
+      "width": 3200,
+      "label": {
+        "en": [
+          "Page 5"
+        ]
+      },
+      "items": [
+        {
+          "id": "https://example.org/iiif/manifest/h.1542/page/5/annotationpage/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/iiif/manifest/h.1542/page/5/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "uoedh_hl_h.1542_3.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 4500,
+                "width": 3200
+              },
+              "target": "https://example.org/iiif/manifest/h.1542/canvas/5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

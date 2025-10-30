@@ -1,0 +1,27 @@
+﻿﻿<oai_dc:dc
+  xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/">
+
+  <dc:title>Gertrude Bugler to Mrs Hardy — Declining the role of “Tess”, 4 February 1925</dc:title>
+  <dc:creator>Gertrude Bugler</dc:creator>
+  <dc:contributor>Mrs Hardy (recipient); Thomas Hardy referenced (VIAF: https://viaf.org/viaf/49245702)</dc:contributor>
+  <dc:date>1925-02-04</dc:date>
+  <dc:type>Text</dc:type>
+  <dc:type>Correspondence</dc:type>
+  <dc:format>Manuscript letter; ink on paper; 2 written pages (5 images incl. blanks)</dc:format>
+  <dc:identifier>H.1542</dc:identifier>
+  <dc:source>Dorset History Centre / Dorset Museum</dc:source>
+  <dc:language>en</dc:language>
+  <dc:description>Bugler writes from Beaminster to decline the role of Tess, citing family reasons and suggesting that Miss Thorndike may later produce the play to greater success.</dc:description>
+  <dc:coverage>Beaminster, Dorset, England (GeoNames: https://www.geonames.org/2656281)</dc:coverage>
+
+  <dc:relation>uoedh_hl_h.1542_1.jpg</dc:relation>
+  <dc:relation>uoedh_hl_h.1542_4.jpg</dc:relation>
+  <dc:relation>uoedh_hl_h.1542_2.jpg</dc:relation>
+  <dc:relation>uoedh_hl_h.1542_2-3.jpg</dc:relation>
+  <dc:relation>uoedh_hl_h.1542_3.jpg</dc:relation>
+
+  <dcterms:provenance>Held by Dorset History Centre / Dorset Museum.</dcterms:provenance>
+  <dcterms:rights>Rights status uncertain; consult holding repository.</dcterms:rights>
+</oai_dc:dc>

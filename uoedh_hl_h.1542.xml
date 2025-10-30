@@ -1,0 +1,96 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gertrude Bugler to Mrs Hardy — Declining the role of “Tess”, 4 February 1925</title>
+        <author><persName>Gertrude Bugler</persName></author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished autograph letter held at the Dorset History Centre / Dorset Museum, MS H.1542.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Dorset History Centre / Dorset Museum</repository>
+            <idno>H.1542</idno>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>Small bifolium of pale grey wove paper; written recto of first two pages in black ink; remaining sides blank. Light rust stain at inner margin; deckled edges.</p>
+                </support>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <p>Single column of continuous lines; generous left margin; closer and signature at foot of p.2.</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote script="cursive" medium="ink" scope="major">
+                <p>Right-slanting cursive hand with open loops and frequent long descenders; occasional overwriting and struck-out corrections; firm black ink.</p>
+              </handNote>
+            </handDesc>
+          </physDesc>
+          <note type="stationery">Embossed heading (blind): “RIVERSIDE COTTAGE / BEAMINSTER / DORSET”.</note>
+          <note type="annotation">Pencilled shelfmark “H.1542” at head of p.2 by later archival hand.</note>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+
+    <profileDesc>
+      <abstract>
+        <p>Writing from <placeName ref="https://www.geonames.org/2656281">Beaminster</placeName>, Gertrude Bugler informs Mrs Hardy that she has told Mr Harrison she cannot play <hi>Tess</hi>, explaining she will not part from her child Diana and that her husband is unhappy about the plan; she adds that Miss Thorndike may produce the play later with greater success.</p>
+      </abstract>
+
+      <correspDesc>
+        <correspAction type="sent">
+          <persName>Gertrude Bugler</persName>
+          <placeName ref="https://www.geonames.org/2656281">Beaminster</placeName>
+          <date when="1925-02-04">February 4, 1925</date>
+        </correspAction>
+        <correspAction type="received">
+          <persName>Mrs Hardy</persName>
+          <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+        </correspAction>
+      </correspDesc>
+
+      <note type="context">
+        <p><persName>Gertrude Bugler</persName> (1900–1997) was a Dorset actor closely associated with stage versions of <hi>Tess of the d’Urbervilles</hi>. This note to Mrs Hardy (Florence Emily Hardy) concerns a proposed production, referencing “Mr Harrison” (likely a theatrical manager) and “Miss Thorndike,” indicating that another celebrated actress might undertake the role.</p>
+      </note>
+    </profileDesc>
+  </teiHeader>
+
+  <text>
+    <body>
+      <div type="item" subtype="letter">
+        <pb facs="uoedh_hl_h.1542_1.jpg"/>
+        <opener>
+          <dateline><placeName ref="https://www.geonames.org/2656281">Beaminster</placeName>, <date when="1925-02-04">February 4, 1925</date></dateline>
+          <salute>Dear Mrs Hardy,</salute>
+        </opener>
+
+        <p>I think I ought to tell you that I have written to Mr Harrison to tell him that I cannot play “Tess” after all!<lb/>
+        I cannot part with Diana and my husband is not very happy about it all and I have no right to sacrifice their happiness.</p>
+
+        <pb facs="uoedh_hl_h.1542_4.jpg"/>
+        <p>I do not think Mr Harrison will mind very much, for he probably knows that— Miss Thorndike is likely to produce the play <unclear>later</unclear> and that with her reputation it will <unclear>be</unclear> a greater success.<lb/>
+        In a way, I am sorry, but I think it will be for the best.</p>
+
+        <closer>
+          <salute>Yours sincerely,</salute><lb/>
+          <signed>Gertrude Bugler</signed>
+        </closer>
+
+        <pb facs="uoedh_hl_h.1542_2.jpg"/>
+        <note type="blank">Blank page.</note>
+        <pb facs="uoedh_hl_h.1542_2-3.jpg"/>
+        <note type="blank">Blank page (spread).</note>
+        <pb facs="uoedh_hl_h.1542_3.jpg"/>
+        <note type="blank">Blank page.</note>
+      </div>
+    </body>
+  </text>
+</TEI>
