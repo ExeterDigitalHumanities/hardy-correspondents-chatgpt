@@ -1,0 +1,66 @@
+﻿﻿{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/iiif/manifest/h.1369",
+  "type": "Manifest",
+  "label": { "en": ["William Waters to Sir Thomas Hardy — Birthday Postcard"] },
+  "summary": {
+    "en": ["Birthday postcard from William Waters, London, to Sir Thomas Hardy, expressing admiration and good wishes for Hardy’s continued success."]
+  },
+  "metadata": [
+    { "label": { "en": ["Creator"] }, "value": { "en": ["William Waters"] } },
+    { "label": { "en": ["Addressee"] }, "value": { "en": ["Sir Thomas Hardy (VIAF 49245702)"] } },
+    { "label": { "en": ["Repository"] }, "value": { "en": ["Dorset History Centre / Dorset Museum"] } },
+    { "label": { "en": ["Identifier"] }, "value": { "en": ["H.1369"] } },
+    { "label": { "en": ["Place of writing"] }, "value": { "en": ["London (GeoNames 2643743)"] } }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/iiif/manifest/h.1369/canvas/1",
+      "type": "Canvas",
+      "height": 4000,
+      "width": 3000,
+      "label": { "en": ["Recto (Illustration)"] },
+      "items": [{
+        "id": "https://example.org/iiif/manifest/h.1369/page/1/annotationpage/1",
+        "type": "AnnotationPage",
+        "items": [{
+          "id": "https://example.org/iiif/manifest/h.1369/page/1/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "uoedh_hl_h.1369_2.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 4000,
+            "width": 3000
+          },
+          "target": "https://example.org/iiif/manifest/h.1369/canvas/1"
+        }]
+      }]
+    },
+    {
+      "id": "https://example.org/iiif/manifest/h.1369/canvas/2",
+      "type": "Canvas",
+      "height": 4000,
+      "width": 3000,
+      "label": { "en": ["Verso (Message and Address)"] },
+      "items": [{
+        "id": "https://example.org/iiif/manifest/h.1369/page/2/annotationpage/1",
+        "type": "AnnotationPage",
+        "items": [{
+          "id": "https://example.org/iiif/manifest/h.1369/page/2/annotation/1",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "uoedh_hl_h.1369_1.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 4000,
+            "width": 3000
+          },
+          "target": "https://example.org/iiif/manifest/h.1369/canvas/2"
+        }]
+      }]
+    }
+  ]
+}

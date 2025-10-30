@@ -1,0 +1,87 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>William Waters to Sir Thomas Hardy — Birthday Postcard</title>
+        <author><persName ref="https://viaf.org/viaf/373372688222655">William Waters</persName></author>
+      </titleStmt>
+      <publicationStmt>
+        <p>Unpublished autograph postcard held at the Dorset History Centre / Dorset Museum, MS H.1369.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>Dorset History Centre / Dorset Museum</repository>
+            <idno>H.1369</idno>
+          </msIdentifier>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <support>
+                  <p>One commercially printed, embossed colour postcard, “Best Wishes on Your Birthday,” depicting a rural scene with sheep beside a brook. Reverse inscribed in black ink.</p>
+                </support>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <p>Message occupies left-hand half of verso; recipient’s name written at right. Printed text and floral embossing visible in border.</p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <handDesc>
+              <handNote medium="ink" script="round hand">
+                <p>Careful upright round hand with moderate spacing, written in black ink; some words in smaller hand for emphasis.</p>
+              </handNote>
+            </handDesc>
+          </physDesc>
+          <note type="stationery">Commercial birthday postcard with embossed floral border and printed colour illustration on recto.</note>
+          <note type="annotation">Archival pencil note “H.1369” upper right verso; address in printed blue ink “POST CARD.”</note>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <abstract>
+        <p>Birthday greeting from <persName ref="https://viaf.org/viaf/373372688222655">William Waters</persName> of <placeName ref="https://www.geonames.org/2643743">London</placeName> to <persName ref="https://viaf.org/viaf/49245702">Sir Thomas Hardy</persName>, expressing admiration and good wishes for Hardy’s continued happiness and success.</p>
+      </abstract>
+      <correspDesc>
+        <correspAction type="sent">
+          <persName ref="https://viaf.org/viaf/373372688222655">William Waters</persName>
+          <placeName ref="https://www.geonames.org/2643743">London</placeName>
+          <address>
+            <addrLine>87 Bexhill Rd.</addrLine>
+            <addrLine>Brockton Park, S.E.14</addrLine>
+          </address>
+        </correspAction>
+        <correspAction type="received">
+          <persName ref="https://viaf.org/viaf/49245702">Sir Thomas Hardy</persName>
+          <placeName ref="https://www.geonames.org/2651347">Dorchester</placeName>
+        </correspAction>
+      </correspDesc>
+      <note type="context">
+        <p>This postcard was sent to <persName ref="https://viaf.org/viaf/49245702">Thomas Hardy</persName> at <placeName>Max Gate</placeName>, Dorchester, probably in connection with his birthday, celebrated annually on 2 June. It demonstrates Hardy’s enduring public popularity among ordinary readers in interwar Britain.</p>
+      </note>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="item" subtype="postcard">
+        <pb facs="uoedh_hl_h.1369_2.jpg"/>
+        <note type="caption">Printed on recto: “Best wishes on your birthday. How pleasant is the summer scene, With cooling brook and pasture green.” (No. 375/4)</note>
+        <pb facs="uoedh_hl_h.1369_1.jpg"/>
+        <opener>
+          <dateline><placeName ref="https://www.geonames.org/2643743">London</placeName></dateline>
+          <salute>Dear Sir,</salute>
+        </opener>
+        <p>Just a card in remembrance of your birthday.<lb/>
+        Wishing you happiness and success for many years to come.<lb/>
+        from a young reader of your works<lb/>
+        <signed>William Waters</signed></p>
+        <closer>
+          <address>
+            <addrLine>To <persName ref="https://viaf.org/viaf/49245702">Sir Thomas Hardy</persName></addrLine>
+          </address>
+        </closer>
+      </div>
+    </body>
+  </text>
+</TEI>
