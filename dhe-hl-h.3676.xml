@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Helen Schechter to Thomas Hardy (H.3676)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished manuscript letter.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>H.3676</idno>
+                    </msIdentifier>
+                    <history>
+                        <origin>
+                            <origDate>n.d.</origDate>
+                            <origPlace>
+                                <placeName ref="https://www.geonames.org/2652356">Melbury</placeName>,
+                                <placeName ref="https://www.geonames.org/2653261">Dorchester</placeName>,
+                                <placeName ref="https://www.geonames.org/2635167">England</placeName>
+                            </origPlace>
+                        </origin> 
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="HelenSche">Helen Schechter</persName>
+                    <placeName ref="https://www.geonames.org/2652356">Melbury</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface xml:id="h3676_1" n="1">
+            <graphic url="uoedh_hl_h.3676_1.jpg"/>
+        </surface>
+        <surface xml:id="h3676_2" n="2">
+            <graphic url="uoedh_hl_h.3676_2.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="letter">
+                
+                <pb facs="#h3676_1" n="1"/>
+                
+                <opener>
+                    <address>
+                        
