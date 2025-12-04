@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Ezra Pound to Thomas Hardy (H.4816)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished manuscript letter.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>H.4816</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Autograph letter signed, four written pages on bifolia; cream paper in dark blue ink, in Ezra Pound’s hand.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName>Hotel Terminus</placeName>, 
+                                <placeName ref="https://www.geonames.org/2977246">St Raphael</placeName>,
+                                <placeName>Côte d’Azur</placeName>,
+                                <placeName ref="https://www.geonames.org/3017382">France</placeName>
+                            </origPlace>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="https://viaf.org/viaf/44300634">Ezra Pound</persName>
+                    <placeName ref="https://www.geonames.org/2977246">St Raphael</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface xml:id="h4816_1" n="1">
+            <graphic url="uoedh_hl_h.4816_1.jpg"/>
+        </surface>
+        <surface xml:id="h4816_2" n="2">
+            <graphic url="uoedh_hl_h.4816_2.jpg"/>
+        </surface>
+        <surface xml:id="h4816_3" n="3">
+            <graphic url="uoedh_hl_h.4816_3.jpg"/>
+        </surface>
+        <surface xml:id="h4816_4" n="4">
+            <graphic url="uoedh_hl_h.4816_4.jpg"/>
+        </surface>
+        <surface xml:id="h4816_5" n="5">
+            <graphic url="uoedh_hl_h.4816_5.jpg"/>
+        </surface>
+        <surface xml:id="h4816_6" n="6">
+            <graphic url="uoedh_hl_h.4816_6.jpg"/>
+        </surface>
+        <surface xml:id="h4816_7" n="7">
+            <graphic url="uoedh_hl_h.4816_7.jpg"/>
+        </surface>
+        <surface xml:id="h4816_8" n="8">
+            <graphic url="uoedh_hl_h.4816_8.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="letter">
+                
+                <!-- Page 1 -->
+                <pb n="1" facs="uoedh_hl_h.4816_1.jpg"/>
+                
+                <opener>
+                    <dateline>
+                        <lb/>Hotel Terminus,
+                        <lb/><placeName ref="https://www.geonames.org/2977246">St Raphael</placeName>,
+                        <lb/>Côte d’Azur,
+                        <lb/><placeName ref="https://www.geonames.org/3017382">France</placeName>.
+                    </dateline>
+                    <salute>
+                        <lb/>My dear <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>,
+                    </salute>
+                </opener>
+                
+                <p>
+                    <lb/>Of course your last
+                    <lb/>note does not, did not require
+                    <lb/>an answer – any more than my
+                    <lb/>rather bold envoy of books needed
+                    <lb/>acknowledgement – only it is
+                    <lb/>so specially difficult to get any
+                    <lb/>criticism whatever of any other aspects
+                    <lb/>than the malice engendered by stupidity –
+                    <lb/>of the hurried hack work of poor
+                    <lb/>devils who have to write reviews –
+                    <lb/>that if you have by any chance
+                    <lb/>looked at the wretched brochures
+                    <lb/>again and found any specific
+                    <lb/>merit or demerit it would be
+                </p>
+                
+                <!-- Page 2 -->
+                <pb n="2" facs="uoedh_hl_h.4816_3.jpg"/>
+                
+                <p>
+                    <lb/>no inconsiderable kindness to send one
+                    <lb/>word. – not a politeness, –
+                    <lb/>the perplexity is confirmed. The melancholy
+                    <lb/>is there – one tries to comfort oneself
+                    <lb/>with the argument that the qualities
+                    <lb/>are inherent in the subject matter. –
+                    <lb/>It is, perhaps, my “un–English” to
+                    <lb/>regard literature as a “mystery”,
+                    <lb/>a druidic guild, in which one
+                    <lb/>receives at least a few orders,
+                    <lb/>a few prohibitions from the generation
+                    <lb/>older, – recognizes the fact that the
+                    <lb/>stuff in question may have the
+                    <lb/>supreme fault of being “merely uninteresting” –
+                    <lb/>in which case no criticism is
+                    <lb/>possible – &amp; there is no remedy
+                    <lb/>but the chance of doing better next time.
+                </p>
+                
+                <!-- Page 3 -->
+                <pb n="3" facs="uoedh_hl_h.4816_5.jpg"/>
+                
+                <p>
+                    <lb/>I don’t know that I have any other
+                    <lb/>excuse to offer for writing this note.
+                    <lb/>I was very much surprised
+                    <lb/>that you had
+                    <lb/>heard of me at all – as indicated
+                    <lb/>in your first reply to my importunities
+                    <lb/>on behalf of the <hi>The Dial</hi>.
+                    <lb/>I don’t think mere praise is any
+                    <lb/>good – I know where I can get it,
+                    <lb/>&amp; just what wrong reasons will lead
+                    <lb/>one or two eminent contemporaries
+                    <lb/>to like or tolerate certain passages.
+                    <lb/>Forgive me if I blurt out
+                    <lb/>this demand for more frankness
+                    <lb/>than anything, save perhaps a
+                    <lb/>lifelong friendship, can engender
+                    <lb/>between two individuals,
+                    <lb/><signed><persName ref="https://viaf.org/viaf/44300634">Ezra Pound</persName></signed>.
+                </p>
+                
+                <!-- Page 4 -->
+                <pb n="4" facs="uoedh_hl_h.4816_7.jpg"/>
+                
+                <p>
+                    <lb/>And also concede that I know
+                    <lb/>how much right you have to your
+                    <lb/>quiet – and how little one ought
+                    <lb/>to break in upon it – and
+                    <lb/>in the end don’t answer
+                    <lb/>this, if the whole subject bores you
+                    <lb/>unspeakably.
+                    <lb/>cordially
+                    <lb/>E. P.
+                </p>
+                
+                <p>
+                    <lb/>permanent address
+                    <lb/>5 Holland Place
+                    <lb/>Chambers,
+                    <lb/><placeName ref="https://www.geonames.org/2643743">London</placeName> W.8.
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
