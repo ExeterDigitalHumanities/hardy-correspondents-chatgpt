@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Sir Leslie Stephen to Thomas Hardy (H.5498)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished manuscript letter.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>H.5498</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Autograph letter signed, two written pages on a single bifolium, with one additional blank side; cream laid paper in brown ink, in a small cursive hand.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when="1872-12-04">4.12.72</origDate>
+                            <origPlace>
+                                <placeName ref="https://www.geonames.org/2643743">London</placeName>,
+                                <placeName ref="https://www.geonames.org/2635167">United Kingdom</placeName>
+                            </origPlace>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="https://viaf.org/viaf/29561082">Leslie Stephen</persName>
+                    <placeName ref="https://https://www.geonames.org/2643743">London</placeName>
+                    <date when="1872-12-04">4.12.72</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface xml:id="h5498_1" n="1">
+            <graphic url="uoedh_hl_h.5498_1.jpg"/>
+        </surface>
+        <surface xml:id="h5498_2" n="2">
+            <graphic url="uoedh_hl_h.5498_2.jpg"/>
+        </surface>
+        <surface xml:id="h5498_3" n="3">
+            <graphic url="uoedh_hl_h.5498_3-4.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="letter">
+                
+                <pb n="1" facs="uoedh_hl_h.5498_1.jpg"/>
+                
+                <opener>
+                    <dateline>
+                        <lb/>4.12.72.
+                    </dateline>
+                    <salute>
+                        <lb/>Dear Sir,
+                    </salute>
+                </opener>
+                
+                <p>
+                    <lb/>I am sorry that I shall not be able to expect a story from
+                    <lb/>you at an earlier date. I do not however mean
+                    <lb/>to fix any particular time, as we are generally going
+                    <lb/>to remain away four months.
+                    <lb/>At present I may say that we shall probably have room
+                    <lb/>for a new story somewhere about October or November
+                    <lb/>next. I expect a new story to begin in January to
+                    <lb/>last till about that time. If that should
+                    <lb/>be too early for you, there will probably be one
+                    <lb/>a few months later.
+                    <lb/>If you would give me a call when you come to town
+                    <lb/>I should be very glad to see you to talk about
+                    <lb/>our future arrangements which will probably be clearer by
+                    <lb/>that time than they now are.
+                    <lb/>Meanwhile I should extremely be anxious to have the
+                    <lb/>refusal of your play if you can give it me. From
+                    <lb/>what you say, I think it would suit us very well.
+                </p>
+                
+                <pb n="2" facs="uoedh_hl_h.5498_2.jpg"/>
+                
+                <p>
+                    <lb/>I may however say that I think that I could, if you desired
+                    <lb/>it, make an arrangement to that effect, viz. that you
+                    <lb/>should write the story with a view to the <hi>The Cornhill</hi>, but
+                    <lb/>that Messrs <persName ref="">Smith &amp; Elder</persName> should understand that if they
+                    <lb/>did not use it for that purpose, they should publish
+                    <lb/>it independently. I suggest this in order that you
+                    <lb/>might not be going out of your way by writing
+                    <lb/>expressly for us, with any doubt as to your story
+                    <lb/>being then possibly thrown away.
+                    <lb/>I do not think, however, from what you say, that such an
+                    <lb/>arrangement would be necessary, as I fancy that your
+                    <lb/>novel would most likely suit us independently of
+                    <lb/>any special intention as to its ultimate destination.
+                    <lb/>I may add that I should not think it at all necessary to
+                    <lb/>have the whole story written in advance, unless that
+                    <lb/>mode of publishing was more convenient to you. Of
+                    <lb/>course it is more convenient to be in possession of
+                    <lb/>the whole Ms; but most authors are in the habit
+                    <lb/>of publishing the first part before having come to the
+                    <lb/>end.
+                    <lb/>My present address is as above. I shall be changing my house in
+                    <lb/>the spring; but a note to <persName ref="">Smith, Elder</persName>, 15
+                    <lb/><placeName ref="https://www.geonames.org/2643743">Waterloo Place</placeName>, <placeName ref="https://www.geonames.org/2643743">London</placeName>
+                    <lb/>will always find me in a day or two.
+                </p>
+                
+                <closer>
+                    <p>
+                        <lb/>Yours very truly
+                        <lb/><signed><persName ref="https://viaf.org/viaf/29561082">L. Stephen</persName></signed>
+                    </p>
+                </closer>
+                
+                <pb n="3" facs="uoedh_hl_h.5498_3-4.jpg"/>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
