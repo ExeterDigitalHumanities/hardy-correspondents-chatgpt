@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Royal Observatory letter and questionnaire concerning Thomas Hardy’s visit (H.5043a–b)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished manuscript and printed forms.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>H.5043a–b</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Printed circular letter with manuscript date and signature, and a manuscript questionnaire completed by Thomas Hardy, on cream paper.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>
+                                <placeName ref="https://www.geonames.org/2647793">Royal Observatory, Greenwich</placeName>,
+                                <placeName ref="https://www.geonames.org/2643743">London</placeName>, 
+                                <placeName ref="https://www.geonames.org/2635167">England</placeName>
+                            </origPlace>
+                            <origDate when="1881-11-26">1881, November 26</origDate>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="https://viaf.org/viaf/64180959">Edwin Dunkin</persName>
+                    <placeName ref="https://www.geonames.org/2647793">Royal Observatory, Greenwich</placeName>
+                    <date when="1881-11-26">1881, November 26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface xml:id="h5043a_1" n="1">
+            <graphic url="uoedh_hl_h.5043a_1.jpg"/>
+        </surface>
+        <surface xml:id="h5043a_2" n="2">
+            <graphic url="uoedh_hl_h.5043a_2.jpg"/>
+        </surface>
+        <surface xml:id="h5043b_1" n="3">
+            <graphic url="uoedh_hl_h.5043b_1.jpg"/>
+        </surface>
+        <surface xml:id="h5043b_2" n="4">
+            <graphic url="uoedh_hl_h.5043b_2.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            
+            <!-- Printed letter from Royal Observatory (H.5043a) -->
+            <div type="letter">
+                <pb n="1" facs="uoedh_hl_h.5043a_1.jpg"/>
+                
+                <p>
+                    <lb/>[ 209 ]
+                </p>
+                
+                <p>
+                    <lb/>Royal Observatory, Greenwich, London, S.E.,
+                    <lb/>1881, <hi>November 26</hi>
+                </p>
+                
+                <opener>
+                    <salute>
+                        <lb/>Sir,
+                    </salute>
+                </opener>
+                
+                <p>
+                    <lb/>I am requested by the Astronomer Royal to inform you
+                    <lb/>that he is always desirous of affording to those persons who are
+                    <lb/>anxious to obtain information on Astronomical, Magnetical, or
+                    <lb/>Meteorological Science, such assistance as may be derived from
+                    <lb/>an inspection of the Instruments of the Royal Observatory; but,
+                    <lb/>at the same time, does not consider that the important duties
+                    <lb/>of a scientific establishment should be interfered with for the
+                    <lb/>gratification of mere curiosity.
+                </p>
+                
+                <p>
+                    <lb/>In reference, therefore, to your application for permission to
+                    <lb/>inspect the Royal Observatory, I forward to you the inclosed
+                    <lb/>paper of Questions which you are requested to answer, in order
+                    <lb/>that the Astronomer Royal may be enabled to consider the
+                    <lb/>propriety of complying with your wish.
+                </p>
+                
+                <closer>
+                    <p>
+                        <lb/>I am, Sir,
+                        <lb/>Your obedient Servant,
+                        <lb/><signed><persName ref="https://viaf.org/viaf/64180959">E. Dunkin</persName>.</signed>
+                    </p>
+                    <p>
+                        <lb/>To <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName> Esq.
+                    </p>
+                </closer>
+                
+                <p>
+                    <lb/>[21819.] E. &amp; S.—200.—2/75.
+                </p>
+                
+                <pb n="2" facs="uoedh_hl_h.5043a_2.jpg"/>
+            </div>
+            
+            <!-- Questionnaire completed by Thomas Hardy (H.5043b) -->
+            <div type="questionnaire">
+                <pb n="3" facs="uoedh_hl_h.5043b_1.jpg"/>
+                
+                <pb n="4" facs="uoedh_hl_h.5043b_2.jpg"/>
+                
+                <p>
+                    <lb/>Questions to be answered by persons desirous of visiting or inspecting
+                    <lb/>the instruments of the Royal Observatory at <placeName ref="https://www.geonames.org/2647793">Greenwich</placeName>.
+                    <lb/>(Copy)
+                </p>
+                
+                <p>
+                    <lb/>1. State your name, title, &amp; professional pursuit, should you
+                    <lb/>have any.
+                    <lb/>Thomas Hardy, Mr.; literature (architecture formerly)
+                    <lb/>(published works, see publisher’s catalogues)
+                </p>
+                
+                <p>
+                    <lb/>2. State the branch of the Observatory to which your enquiries
+                    <lb/>are directed.
+                    <lb/>The Observation department
+                </p>
+                
+                <p>
+                    <lb/>3. State whether you have an Observatory of your own, or
+                    <lb/>are forming one, or are in the habit of making astronomical,
+                    <lb/>magnetical or meteorological observations.
+                    <lb/>Have no Observatory of my own; am not forming
+                    <lb/>one; but am sketching plans for one; am not in the
+                    <lb/>habit of making observations, but have written astro-
+                    <lb/>nomical passages <unclear>which are quoted &amp;c.</unclear>
+                </p>
+                
+                <p>
+                    <lb/>4. State the particular object you have in view in
+                    <lb/>desiring to see the Royal Observatory.
+                    <lb/>To ascertain if a hollow memorial pillar, with a
+                    <lb/>staircase inside, can be adapted for the purpose of a small
+                    <lb/>observatory – &amp; how it can be shaped so as not to interfere
+                    <lb/>with observations – etc. etc. –
+                </p>
+                
+                <p>
+                    <lb/>5. State the names of any gentlemen of letters or of
+                    <lb/>the Scientific Societies of <placeName ref="https://www.geonames.org/2643743">London</placeName>, or who has repute
+                    <lb/>in Science &amp; whom you are known.
+                    <lb/><persName ref="https://viaf.org/viaf/64009205">Professor Huxley</persName>, 
+                    <persName ref="https://viaf.org/viaf/2468948">Lord Houghton</persName>, 
+                    <persName ref="https://viaf.org/viaf/36978763">Mr. Tennyson</persName>, &amp; many others.
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
