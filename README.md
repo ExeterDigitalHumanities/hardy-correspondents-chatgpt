@@ -5,6 +5,6 @@ All content is currently (c) all rights reserved by the Dorset Museum and Dorset
 
 # Original Project
 can be found at https://github.com/ExeterDigitalHumanities/hardy-correspondents
-which contains 100 hand-human-transcribed texts with extensive research from the [https://](https://hardycorrespondents.exeter.ac.uk/) website.
+which contains 100 hand-human-transcribed texts with extensive research from the [https://hardycorrespondents.exeter.ac.uk/](https://hardycorrespondents.exeter.ac.uk/) website.
 
 Developers: Please annotate your commits with details of the prompt used in each case.
