@@ -15,6 +15,7 @@
                   <repository>Dorset History Centre / Dorset Museum</repository>
                   <idno>H.1365</idno>
                </msIdentifier>
+               
                <physDesc>
                   <objectDesc>
                      <supportDesc>
@@ -34,9 +35,10 @@
                      </handNote>
                   </handDesc>
                </physDesc>
+            </msDesc>
                <note type="stationery">No printed letterhead; heading supplied in manuscript.</note>
                <note type="annotation">Shelfmark “H.1365” pencilled at head of verso (archival hand).</note>
-            </msDesc>
+            
          </sourceDesc>
       </fileDesc>
       
