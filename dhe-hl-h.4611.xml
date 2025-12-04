@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Henry J. Timbres to Thomas Hardy about <title>Tess of the d’Urbervilles</title> (H.4611)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Unpublished manuscript letter.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <idno>H.4611</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Autograph letter signed, written in black ink on lined paper, six sides, punched at margin.</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when="1925-07-24">July 24 / 1925</origDate>
+                            <origPlace>
+                                <placeName ref="https://www.geonames.org/4887398">Chicago</placeName>,
+                                <placeName ref="https://www.geonames.org/4896861">Illinois</placeName>,
+                                <placeName ref="https://www.geonames.org/6252001">U.S.A.</placeName>
+                            </origPlace>
+                        </origin>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="">Henry J. Timbres</persName>
+                    <placeName ref="https://www.geonames.org/4887398">Chicago</placeName>
+                    <date when="1925-07-24">July 24 / 1925</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        
+        <encodingDesc>
+            <editorialDecl>
+                <p>Full diplomatic transcription. Original spelling, punctuation, and lineation preserved. Line breaks are marked with &lt;lb/>, and page breaks with &lt;pb/> carrying facsimile filenames. Personal names and places are tagged with &lt;persName> and &lt;placeName>; when no secure VIAF or GeoNames identifier is known, @ref is left empty.</p>
+            </editorialDecl>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change when="2025-12-04">Initial TEI transcription of H.4611.</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <facsimile>
+        <surface xml:id="h4611_1" n="1">
+            <graphic url="uoedh_hl_h.4611_1.jpg"/>
+        </surface>
+        <surface xml:id="h4611_2" n="2">
+            <graphic url="uoedh_hl_h.4611_2.jpg"/>
+        </surface>
+        <surface xml:id="h4611_3" n="3">
+            <graphic url="uoedh_hl_h.4611_3.jpg"/>
+        </surface>
+        <surface xml:id="h4611_4" n="4">
+            <graphic url="uoedh_hl_h.4611_4.jpg"/>
+        </surface>
+        <surface xml:id="h4611_5" n="5">
+            <graphic url="uoedh_hl_h.4611_5.jpg"/>
+        </surface>
+        <surface xml:id="h4611_6" n="6">
+            <graphic url="uoedh_hl_h.4611_6.jpg"/>
+        </surface>
+    </facsimile>
+    
+    <text>
+        <body>
+            <div type="letter">
+                
+                <!-- Page 1 -->
+                <pb n="1" facs="uoedh_hl_h.4611_1.jpg"/>
+                
+                <opener>
+                    <dateline>
+                        <lb/>July 24 / 1925
+                    </dateline>
+                    <salute>
+                        <lb/>Dear <persName ref="https://viaf.org/viaf/54148778">Thomas Hardy</persName>,
+                    </salute>
+                </opener>
+                
+                <p>
+                    <lb/>Why did you write "<title>Tess of the d’Urbervilles</title>"?
+                    <lb/>I wake up at night,
+                    <lb/>screaming against the injustices of it,
+                    <lb/>and I cannot rid it from my
+                    <lb/>thoughts. It is the most haunting tragedy
+                    <lb/>I have ever experienced.
+                    <lb/>Is it necessary to add sorrow
+                    <lb/>to an already overburdened world, even in
+                    <lb/>the form of a novel? Or perhaps you
+                    <lb/>have known a person or persons, who
+                    <lb/>have undergone these experiences, and
+                    <lb/>you wished to proclaim the injustices
+                    <lb/>that had been done to them.
+                    <lb/>Is it the fate of some people to
+                    <lb/>go through life, utterly alone although
+                    <lb/>longing and yearning for true
+                </p>
+                
+                <!-- Page 2 (text image 3) -->
+                <pb n="2" facs="uoedh_hl_h.4611_3.jpg"/>
+                
+                <p>
+                    <lb/>companionship and never finding
+                    <lb/>it? Then suppose there is no life after
+                    <lb/>death? Where does justice come in?
+                    <lb/>Where are the long years of loneliness
+                    <lb/>and unrelieved pain, and impositions
+                    <lb/>upon innocence and helplessness
+                    <lb/>made up for?
+                    <lb/>What hope is there for Tess, or Clare,
+                    <lb/>or even d’Urberville or those who have
+                    <lb/>suffered as they? Telling about it may
+                    <lb/>prevent others from falling into
+                    <lb/>snares of folly and ignorance and
+                    <lb/>misunderstanding, but little good
+                    <lb/>will the telling of it do Tess in
+                    <lb/>finding what she sought for in vain.
+                    <lb/>And only the exquisite touch of
+                    <lb/><unclear>by giving them</unclear>
+                    <lb/>torturing her and Clare both the
+                    <lb/>happiness they sought when it was too
+                    <lb/>late for them to hold it? What
+                </p>
+                
+                <!-- Page 3 (text image 2, numbered "2.") -->
+                <pb n="3" facs="uoedh_hl_h.4611_2.jpg"/>
+                
+                <p>
+                    <lb/>is behind the Fate that controls these
+                    <lb/>things? What is the ultimate answer?
+                    <lb/>You as an artist and can see into
+                    <lb/>the depths of sorrow and feel it, and
+                    <lb/>can also describe what you see and feel.
+                    <lb/>What about those who are not artists, or
+                    <lb/>only half–artists, and who also
+                    <lb/>see &amp; feel sorrow as clearly as you, but
+                    <lb/>have not the gift of having a voice in
+                    <lb/>protest? They can only suffer and
+                    <lb/>say nothing. What hope do you offer
+                    <lb/>them, or do you offer them any?
+                    <lb/>What is there to live for? Must
+                    <lb/>we accept an inevitable Fate, which
+                    <lb/>doles happiness to some and sorrow to
+                    <lb/>others? Have you any vision of what
+                    <lb/>lies behind it all or beyond?
+                    <lb/>You are old, and I am young, and
+                </p>
+                
+                <!-- Page 4 -->
+                <pb n="4" facs="uoedh_hl_h.4611_4.jpg"/>
+                
+                <p>
+                    <lb/>you have plumbed the depths of
+                    <lb/>men’s hearts. Can you not give me
+                    <lb/>a notion of what the answers to my
+                    <lb/>questions are, before you come to the
+                    <lb/>place where you know the true answers,
+                    <lb/>but cannot tell them? My life
+                    <lb/>should be happy, considering its
+                    <lb/>circumstances, but sometimes I
+                    <lb/>feel as if an awful chasm were
+                    <lb/>opening at my feet, and there below
+                    <lb/>only cries of unrequited pain,
+                    <lb/>unredeemed injustices are heard.
+                    <lb/>It seems that the only life left after
+                    <lb/>death were sorrow.
+                    <lb/>There are some who would say
+                    <lb/>that all pain was not as bad as it
+                    <lb/>seems. But I cannot make fine
+                    <lb/>distinctions. The tragical facts of life
+                    <lb/>are facts, and the fund of human
+                </p>
+                
+                <!-- Page 5 -->
+                <pb n="5" facs="uoedh_hl_h.4611_5.jpg"/>
+                
+                <p>
+                    <lb/>happiness will not be increased
+                    <lb/>until these facts are altered. In the
+                    <lb/>meantime—what? And will
+                    <lb/>they ever be altered? People do
+                    <lb/>commit irremediable folly, and do
+                    <lb/>die in hopelessness, even as Tess died.
+                    <lb/>Every day appalling injustice is done,
+                    <lb/>which is not ameliorated in any degree
+                    <lb/>by the fact that justice and mercy
+                    <lb/>are also sometimes done. What of
+                    <lb/>those whose lives have been ruined?
+                    <lb/>Why is pain? Why is injustice?
+                    <lb/>Are they fundamental and ultimate
+                    <lb/>defects in the scheme of things, that
+                    <lb/>will never be altered, but must be borne?
+                    <lb/>If this is an answer, then it were better
+                    <lb/>not to live, if by dying we could
+                    <lb/>escape these defects.
+                </p>
+                
+                <!-- Page 6: closing -->
+                <pb n="6" facs="uoedh_hl_h.4611_6.jpg"/>
+                
+                <closer>
+                    <p>
+                        <lb/>These questions sometimes almost
+                        <lb/>drive me mad, but that does not
+                        <lb/>bring an answer.
+                        <lb/>I wrote this in the hope that
+                        <lb/>perhaps you can help me, even a little.
+                        <lb/>Yours very respectfully
+                        <lb/><signed><persName ref="">Henry J. Timbres</persName>.</signed>
+                    </p>
+                    
+                    <p>
+                        <lb/>5701 Kenwood Avenue
+                        <lb/><placeName ref="https://www.geonames.org/4887398">Chicago</placeName>, 
+                        <placeName ref="https://www.geonames.org/4896861">Illinois</placeName>, 
+                        <placeName ref="https://www.geonames.org/6252001">U.S.A.</placeName>
+                    </p>
+                    
+                    <p>
+                        <lb/>After September 1st.
+                        <lb/>2101 Park Avenue
+                        <lb/><placeName ref="https://www.geonames.org/4347778">Baltimore</placeName>, 
+                        <placeName ref="https://www.geonames.org/4361885">Maryland</placeName>, 
+                        <placeName ref="https://www.geonames.org/6252001">U.S.A.</placeName>
+                    </p>
+                </closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>
