@@ -1,0 +1,241 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Florence Henniker to Thomas Hardy — 11 August 1914 (H.3175)</title>
+                <author>
+                    <persName ref="https://viaf.org/viaf/64014654/">Florence Henniker</persName>
+                </author>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Dorset History Centre / Dorset Museum</publisher>
+                <availability status="restricted">
+                    <p>For research use only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Dorset History Centre / Dorset Museum</repository>
+                        <idno>H.3175</idno>
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <p>
+                            Folded cream card with a printed black border and oval crest
+                            “The Little Orchard, Shoreham, Kent.” in black on the first page.
+                            Written throughout in a soft grey hand, with extensive
+                            cross-writing in the margins and at right angles to the main text.
+                        </p>
+                    </physDesc>
+                    
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName ref="https://viaf.org/viaf/64014654/">Florence Henniker</persName>
+                            <placeName ref="https://www.geonames.org/2637917/">Shoreham, Kent</placeName>
+                            <date when="1914-08-11">Aug 11. 14</date>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName ref="https://viaf.org/viaf/7397734/">Thomas Hardy</persName>
+                        </correspAction>
+                    </correspDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <abstract>
+                Florence Henniker thanks Hardy for his letter and a poem in the Sphere,
+                comments on contemporary verse and war poetry, reflects on cinema and
+                performing animals, notes recent animal-protection measures, and
+                describes rural life and birds in her orchard at Shoreham.
+            </abstract>
+            
+            <handDesc>
+                <handNote>
+                    Rapid, slightly right-sloping cursive hand in grey pencil or pale ink;
+                    cross-writing in margins and between lines at 90 degrees to the main text.
+                </handNote>
+            </handDesc>
+            
+            <note type="context">
+                Florence Henniker (1855–1923), novelist and close friend of Thomas Hardy,
+                writes from “The Little Orchard”, Shoreham, during the opening year of
+                the First World War, discussing literature, animal welfare, and her
+                rural surroundings.
+            </note>
+        </profileDesc>
+        
+        <notesStmt>
+            <note type="material">
+                Four-page card, black-ruled border on first page only; printed oval
+                “The Little Orchard. Shoreham. Kent.” at head. Later pencil docket
+                “Hon Mrs Henniker” appears at upper margin in another hand.
+            </note>
+        </notesStmt>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Diplomatic transcription with line breaks preserved and cross-writing
+                    encoded in <seg type="crosswriting">.</p>
+            </projectDesc>
+        </encodingDesc>
+        
+        <additional>
+            <listBibl>
+                <bibl type="DC">
+                    <title>Letter from Florence Henniker to Thomas Hardy</title>
+                    <creator>Florence Henniker</creator>
+                    <date>11 August 1914</date>
+                    <format>Manuscript letter on printed card</format>
+                    <identifier>H.3175</identifier>
+                    <publisher>Dorset History Centre / Dorset Museum</publisher>
+                    <coverage>Shoreham, Kent</coverage>
+                </bibl>
+            </listBibl>
+        </additional>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- raw verso / blank -->
+            <pb facs="uoedh_hl_h.3175_1.jpg"/>
+            
+            <!-- PAGE 1 (front, with crest) -->
+            <pb facs="uoedh_hl_h.3175_2.jpg"/>
+            
+            <opener>
+                <dateline>
+                    <placeName ref="https://www.geonames.org/2637917/">The Little Orchard, Shoreham, Kent</placeName>.<lb/>
+                    <date when="1914-08-11">Aug 11. 14</date>
+                </dateline>
+                <salute>my dear friend,</salute>
+            </opener>
+            
+            <p>
+                Best thanks for your last nice long letter, full of news. Also very many
+                thanks for the fine poem in the "<hi>Sphere</hi>". There are beautiful
+                lines in it, but of course it is very sad. I have not seen the magazine
+                conducted by the "uppish" young poets. Possibly there may be good
+                things in it now &amp; again, for as Mr. <unclear>Gosse</unclear> thinks
+                there is a great deal of almost good verse published. I think Miss
+                Wedmore’s is very much above the ordinary, don’t you? and I see that a
+                story by Mr. Arthur Bell is very much praised.
+            </p>
+            
+            <p>
+                I was really impressed by Frank <unclear>Tayfin’s</unclear>
+                "<hi>The Gallant Way</hi>". They are of course soldiers’ poems, &amp;
+                they have a splendid ring &amp; go about them — one on "Minden" —
+                another on "Blucher" — &amp; a 3rd about "The Men" <unclear>themselves</unclear>.
+            </p>
+            
+            <seg type="crosswriting">
+                (margin, upper right) How Mrs Henniker is appearing so much younger
+                than her years; very kindly of you to ask about my health — it is
+                shaky, but the air I think very bracing.
+            </seg>
+            
+            <seg type="crosswriting">
+                (margin, upper left) The politician in old days, that he now very
+                seldom reads your books; but he thinks they would stand time.
+            </seg>
+            
+            <!-- PAGE 2 + 3 spread -->
+            <pb facs="uoedh_hl_h.3175_2-3.jpg"/>
+            
+            <!-- PAGE 2 (inner left) -->
+            <pb facs="uoedh_hl_h.3175_3.jpg"/>
+            
+            <p>
+                I think Miss Wedmore’s verse much above the ordinary; don’t you? and I
+                see that a story by Mr Arthur Bell is very much praised. I was really
+                impressed by Frank <unclear>Taplin’s</unclear> "<hi>The Gallant Way</hi>".
+                They are of course soldiers’ poems &amp; they have a splendid ring &amp;
+                go — one on "Minden" — another on "Blucher" — &amp; a 3rd about "The Men".
+            </p>
+            
+            <p>
+                There are a few things that have happened lately which cheer one. The
+                passing of the plumage bill in America &amp; the stopping of the
+                feathers from the hats of certain women delights me. But I fear the
+                inspection of the ponies is very unsatisfactory — &amp; Mr. McKenna
+                has behaved badly about it. I hope you are getting fond of this live
+                "Wessex"?
+            </p>
+            
+            <p>
+                This place, as I think I told you, is quite astonishingly rural. In some
+                of the country roads &amp; lanes one might be a hundred miles from
+                <placeName ref="https://www.geonames.org/2643743/">London</placeName>,
+                instead of 23.
+            </p>
+            
+            <seg type="crosswriting">
+                (top margin) One hears that "Hardy &amp; Meredith" are beyond dispute
+                the two great names.
+            </seg>
+            
+            <!-- PAGE 3 (inner right) -->
+            <pb facs="uoedh_hl_h.3175_4.jpg"/>
+            
+            <p>
+                What do you think of this craze for films? I see you say "Far from the
+                madding crowd" is to be done. I wonder if the system makes people lazy
+                about reading, &amp; less keen about genuine drama?
+            </p>
+            
+            <p>
+                I am so glad you have written about performing animals. There may be a
+                few cases in which they are kindly treated, &amp; learn tricks easily
+                (such as Milner’s); but the whole thing is liable to dreadful abuses &amp;
+                cruelties.
+            </p>
+            
+            <!-- PAGE 4 (back) – two cropped images 5,6 and 7 -->
+            <pb facs="uoedh_hl_h.3175_5.jpg"/>
+            
+            <p>
+                There are a few birds that have already taken to us, which cheers one.
+                The plumage bill in America, &amp; the stopping of the feathers from
+                the hats of certain women, delights me, as I said. I hope you are
+                feeling fairly well.
+            </p>
+            
+            <pb facs="uoedh_hl_h.3175_6.jpg"/>
+            
+            <p>
+                I hope to do a great deal in encouraging birds in the orchard. Please
+                give many messages to Miss Drysdale, &amp; my love. Some day you &amp;
+                she must come &amp; see me here.
+            </p>
+            
+            <p>
+                The other day I went to a little party at the boys’ — the two
+                <unclear>Sergeants</unclear> that first had them; they were so kind in
+                getting up interesting talk to come &amp; talk to me of it.
+            </p>
+            
+            <seg type="crosswriting">
+                (margin) Brands &amp; I also went to hear his lecture on "Hamlet" some
+                day. He is an excellent critic, you know. (Valfrè-Guild?) I must tell
+                you of it another time.
+            </seg>
+            
+            <pb facs="uoedh_hl_h.3175_7.jpg"/>
+            
+            <closer>
+                <salute>Yours always most affectionately</salute><lb/>
+                <signed>
+                    <persName ref="https://viaf.org/viaf/64014654/">F. H.</persName>
+                </signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>
