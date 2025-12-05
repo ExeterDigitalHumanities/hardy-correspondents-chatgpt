@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter (Kilburn → Mary) — 21 November 1862</title>
+                <author>
+                    <persName ref="https://viaf.org/viaf/7397734/">T. H.</persName>
+                </author>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Dorset History Centre / Dorset Museum</publisher>
+                <availability status="restricted">
+                    <p>For research use only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Dorset History Centre / Dorset Museum</repository>
+                        <idno>H.1987.281</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Single bifolium; cream paper, written in brown ink in a rapid cursive hand.</p>
+                    </physDesc>
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName ref="https://viaf.org/viaf/7397734/">T. H.</persName>
+                            <placeName ref="https://www.geonames.org/2648110/">Kilburn</placeName>
+                            <date when="1862-11-21"/>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName>M<unclear>ary</unclear></persName>
+                        </correspAction>
+                    </correspDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <abstract>
+                A letter from T. H. at Kilburn to Mary, describing recent excursions in
+                <placeName ref="https://www.geonames.org/2643743/">London</placeName>,
+                including the Thames Tunnel and the Monument, and plans for returning home.
+            </abstract>
+            
+            <handDesc>
+                <handNote>Brown ink, medium-fine nib, moderately slanted cursive hand; several passages heavily struck out.</handNote>
+            </handDesc>
+            
+            <note type="context">
+                T. H., likely associated with mid-19th-century London cultural societies, writes informally to Mary about social events, exhibitions, and family movements.
+            </note>
+        </profileDesc>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Transcribed diplomatically per TEI P5 guidelines with explicit marking of uncertain and struck-through readings.</p>
+            </projectDesc>
+        </encodingDesc>
+        
+        <additional>
+            <listBibl>
+                <bibl type="DC">
+                    <title>Letter from T. H. to Mary</title>
+                    <creator>T. H.</creator>
+                    <date>21 November 1862</date>
+                    <format>Manuscript</format>
+                    <identifier>H.1987.281</identifier>
+                    <publisher>Dorset History Centre / Dorset Museum</publisher>
+                    <coverage>London</coverage>
+                </bibl>
+            </listBibl>
+        </additional>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- PAGE 1 -->
+            <pb facs="uoedh_hl_h.1987.281_1.jpg"/>
+            
+            <opener>
+                <dateline>
+                    <placeName ref="https://www.geonames.org/2648110/">S. W. K. Pl. C. +</placeName>
+                    <date when="1862-11-21">21/11/62</date>
+                    <note>(written overnight at <placeName ref="https://www.geonames.org/2648110/">Kilburn</placeName>)</note>
+                </dateline>
+                <salute>My dear Mary,</salute>
+            </opener>
+            
+            <p>
+                I suppose you are very glad that Xmas is coming. Do not send back the Sat. N<unclear>o</unclear>'s but take care of them and put them in your box, so that I may have them when I want them—
+                I wish you wd tell me how u. r. when u. write. I have a <unclear>c——</unclear> “cold &amp; it is by head” so I have stayed in all day to be all right to morrow.
+            </p>
+            
+            <p>
+                Last Friday night there was a conversazione (pronounced Ron-ver-sat-zi-on-e)
+                at the Architectural Association's rooms. There were about 300, or 400 present, including your humble servant.
+                Mr Blomfield, one of the Committee, gave me a ticket, and Mr Bunker, another Committee man, another, &amp;c.
+                I gave to Shaw and we went together. After lots of speechifying from learned professors, there was music &amp;c, and coffee—this last rather in small quantities.
+                Many ladies were there; and of course in full dress. Shaw lent me a dress coat (thus <unclear>☞</unclear> as I did not possess one). My name was proposed amongst many others, for becoming a member…
+            </p>
+            
+            <!-- PAGE 2 -->
+            <pb facs="uoedh_hl_h.1987.281_2.jpg"/>
+            
+            <p>
+                only means paying 10/– a year.
+                Miss A. and Father went off all right, as you know.
+                Do you ever write to Eliza? Father enjoyed himself, strangely. I took them to hear the Opera of <unclear>Lurlina</unclear> at
+                <placeName ref="https://www.geonames.org/2655984/">Covent Garden</placeName>, but nothing would satisfy Father unless he went to see the Thames Tunnel.
+                This, you know, is 5 or 6 miles from Kilburn, and lies in one of the lowest and most crowded parts of London.
+            </p>
+            
+            <p>
+                Accordingly, one morning he started off alone, agreeing to meet Miss A. at the foot of the
+                Monument on <placeName ref="https://www.geonames.org/2643743/">Tower Hill</placeName> at 1 o’clock. She had been somewhere not mentioned during the morning.
+                What is to be wondered at is the fact that they actually did meet; but as Father was there a little too soon,
+                he went to the top of the Monument (200 feet). <unclear>———</unclear> <unclear>—— —— —— —— —— ——</unclear>
+                Well, they went to the T. T. together and came home all right.
+            </p>
+            
+            <p>
+                I expect to come home Xmas for a little time. Frank Lock is living in
+                <placeName ref="https://www.geonames.org/2643743/">London</placeName> &amp; is coming to see me.
+                Perhaps Shaw may come down with me for a day or two Xmas. It will be good fun, he is such a “coddle” &amp; I paying the outing.
+                <unclear>——— —— —— ——</unclear>
+            </p>
+            
+            <closer>
+                <p>I am very economical of paper as u. may see.</p>
+                <signed>Goodbye. Henry wrote yesterday.  
+                    <persName ref="https://viaf.org/viaf/7397734/">T. H.</persName></signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>

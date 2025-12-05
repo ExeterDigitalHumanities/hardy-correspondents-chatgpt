@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Millicent Fawcett to Thomas Hardy — 15 April 1892</title>
+                <author>
+                    <persName ref="https://viaf.org/viaf/73880180/">Millicent Garrett Fawcett</persName>
+                </author>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Dorset History Centre / Dorset Museum</publisher>
+                <availability status="restricted">
+                    <p>For research use only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Dorset History Centre / Dorset Museum</repository>
+                        <idno>H.2358</idno>
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <p>
+                            Single letter on cream paper with printed address “2, Gower Street.”
+                            Written in dark ink, with portions overwritten or corrected in a lighter hand.
+                        </p>
+                    </physDesc>
+                    
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName ref="https://viaf.org/viaf/73880180/">Millicent Garrett Fawcett</persName>
+                            <placeName ref="https://www.geonames.org/2643743/">London</placeName>
+                            <date when="1892-04-15">April 15. 92</date>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName ref="https://viaf.org/viaf/7397734/">Thomas Hardy</persName>
+                        </correspAction>
+                    </correspDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <abstract>
+                Millicent Fawcett writes to Thomas Hardy praising *Tess*, discussing the
+                moral meaning she believes fiction should convey to young readers, and
+                her work assisting vulnerable girls.
+            </abstract>
+            
+            <handDesc>
+                <handNote>Dark ink, cursive hand; occasional overwriting in lighter ink.</handNote>
+            </handDesc>
+            
+            <note type="context">
+                Millicent Garrett Fawcett (1847–1929) was a leading English suffragist,
+                feminist, and writer, connected with social purity and education causes.
+            </note>
+        </profileDesc>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Diplomatic TEI P5 transcription with <unclear> for uncertain readings and
+                        <lb/> for line breaks.</p>
+            </projectDesc>
+        </encodingDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- PAGE 1 -->
+            <pb facs="uoedh_hl_h.2358_1.jpg"/>
+            
+            <dateline>
+                <date when="1892-04-15">April 15. 92</date><lb/>
+                2, Gower Street.<lb/>
+                <placeName ref="https://www.geonames.org/2643743/">London W.C.</placeName>
+            </dateline>
+            
+            <salute>Dear Mr Hardy,</salute>
+            
+            <p>
+                I do not expect you will remember me but I will try to recall myself to you by
+                mentioning that I had the pleasure of meeting you &amp; Mrs Hardy at Lady Portsmouth’s
+                London house two or three years ago.  
+            </p>
+            
+            <p>
+                I have been very full of admiration for your *Tess* and of real gratitude to you
+                for writing it, but I should<lb/>
+            </p>
+            
+            <!-- PAGE 2 -->
+            <pb facs="uoedh_hl_h.2358_2.jpg"/>
+            
+            <p>
+                not have intended so far to tell you this which must be an old story to you.<lb/>
+                My object in writing is to ask if you<lb/>
+                —no one could do it half as well—<lb/>
+                would write a short story within the limits of thought and language that could be
+                readily comprehended by working boys &amp; girls on the shipwrecks of what ought to be the
+                most beautiful thing in their lives—what comes of treating love between man &amp; woman with
+                lightness and irreverence.  
+            </p>
+            
+            <!-- PAGE 2–3 OVERLAP IMAGE -->
+            <pb facs="uoedh_hl_h.2358_2-3.jpg"/>
+            
+            <p>
+                What I want to see made plain in a story is that the very holiness &amp; beauty of the thing,
+                at its best, makes any trifling with only the physical part of it result in corruption—
+                “Lilies that fester smell far worse than weeds.”  
+            </p>
+            
+            <p>
+                I work with some friends to help girls who have gone wrong to get on their feet again and
+                we see so much of the utter want of apprehension that there is any high and noble side to
+                this thing that they have gone shipwreck upon; it is difficult to get even a glimmer of it
+                through to them, and I imagine it would be even more difficult in the case of men of the
+                corresponding type.<lb/>
+            </p>
+            
+            <!-- PAGE 3 -->
+            <pb facs="uoedh_hl_h.2358_3.jpg"/>
+            
+            <p>
+                Could a small prose help to make it obvious that men may read?<lb/>
+            </p>
+            
+            <closer>
+                Believe me yours very faithfully,<lb/>
+                <signed>
+                    <persName ref="https://viaf.org/viaf/73880180/">Millicent Fawcett</persName>
+                </signed>
+            </closer>
+            
+            <!-- PAGE 4 (rear of page with extensive overwritten lines) -->
+            <pb facs="uoedh_hl_h.2358_4.jpg"/>
+            
+            <!-- The content of this page appears to be the continuation of the argument already captured.
+           The visible text is duplicated from earlier lines; no new textual content is present beyond
+           heavily overwritten or repeated passages already transcribed above. -->
+            
+        </body>
+    </text>
+</TEI>

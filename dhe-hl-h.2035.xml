@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Brasford K. Daniels to Thomas Hardy — 29 November 1905</title>
+                <author>
+                    <persName ref="https://viaf.org/viaf/54144784/">Brasford K. Daniels</persName>
+                </author>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Dorset History Centre / Dorset Museum</publisher>
+                <availability status="restricted">
+                    <p>For research use only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Dorset History Centre / Dorset Museum</repository>
+                        <idno>H.2035</idno>
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <p>
+                            Six pages on thin cream typewriting paper; typed in purple ribbon with
+                            occasional red-pencil underlining; final page signed in black ink.
+                        </p>
+                    </physDesc>
+                    
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName ref="https://viaf.org/viaf/54144784/">Brasford K. Daniels</persName>
+                            <placeName ref="https://www.geonames.org/1724879/">Balayan, Batangas Province, Philippine Islands</placeName>
+                            <date when="1905-11-29">November 29, 1905</date>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName ref="https://viaf.org/viaf/7397734/">Thomas Hardy</persName>
+                        </correspAction>
+                    </correspDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <abstract>
+                A long appreciative letter written from the Philippines, praising Thomas Hardy’s
+                novels—especially *Tess* and *Jude*—and commenting on Hardy’s literary force,
+                truthfulness, and portrayal of women.
+            </abstract>
+            
+            <handDesc>
+                <handNote>Typewritten in purple ribbon; underscoring in red pencil; signature in cursive black ink.</handNote>
+            </handDesc>
+            
+            <note type="context">
+                Brasford K. Daniels, an American (Canadian-born), writes to Thomas Hardy from the
+                Philippines with intense admiration for Hardy’s works and philosophical depth.
+            </note>
+        </profileDesc>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Diplomatic transcription of typewritten correspondence with line breaks preserved.</p>
+            </projectDesc>
+        </encodingDesc>
+        
+        <additional>
+            <listBibl>
+                <bibl type="DC">
+                    <title>Letter to Thomas Hardy, 29 November 1905</title>
+                    <creator>Brasford K. Daniels</creator>
+                    <publisher>Dorset History Centre / Dorset Museum</publisher>
+                    <date>1905-11-29</date>
+                    <format>Manuscript (typescript)</format>
+                    <identifier>H.2035</identifier>
+                    <coverage>Philippine Islands</coverage>
+                </bibl>
+            </listBibl>
+        </additional>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- PAGE 1 (blank verso) -->
+            <pb facs="uoedh_hl_h.2035_1.jpg"/>
+            
+            <!-- PAGE 2 (typed page 1) -->
+            <pb facs="uoedh_hl_h.2035_2.jpg"/>
+            
+            <dateline>
+                <placeName ref="https://www.geonames.org/1724879/">Balayan, Batangas Province, Philippine Islands</placeName>,  
+                <date when="1905-11-29">November 29, 1905</date>.
+            </dateline>
+            
+            <p>
+                <persName ref="https://viaf.org/viaf/7397734/">Thomas Hardy</persName>,  
+                My dear sir:
+            </p>
+            
+            <p>
+                I have just finished reading Tess—strange that I never read it before.
+                Next to Jude, it is the most tremendious thing I have ever read.  
+                To me you are like some <hi rend="underline">terrible old prophet</hi> crying in the wilderness.  
+                The two books have been my baptism of fire. I do not pretend to be a critic,
+                but to me you are the greatest mind that has worked in English fiction.
+                It is useless to compare you with other writers, though, for you are so totally unlike them.
+                It is so easy and so tempting to make a book popular by evading the truth—to present
+                life as a gilded puppet, rather than in its native dignity and—yes, I think so;
+                on the whole—sorrow.
+            </p>
+            
+            <p>
+                But to me you are no pessimist. Your belief in human nature is the most profound,
+                unquenchable, of any man's I have ever known in person or through books.
+            </p>
+            
+            <!-- PAGE 3 (blank verso) -->
+            <pb facs="uoedh_hl_h.2035_3.jpg"/>
+            
+            <!-- PAGE 4 (typed page 2) -->
+            <pb facs="uoedh_hl_h.2035_4.jpg"/>
+            
+            <p>
+                Your insight into the heart of woman is the most Christ-like of anything I have ever met in literature.
+                The senseless, untrue, and too often malignant criticisms that have been passed upon you in this connection
+                are enough to make one despise the reviewing system which can permit such a travesty on justice.
+                If I had a daughter unfolding into womanhood, I should certainly place Tess and Jude in her hands,
+                and feel that I had provided the instruction which most mothers are too cowed by convention to give.
+            </p>
+            
+            <p>
+                Although I am an American (Canadian born), yet I have lived some time in England—
+                mostly in Kent and Essex, and feel that you have made your characters an inseparable part of,
+                the inevitable product of, their environment.  
+                Perhaps from the literary standpoint I can pay you no higher compliment.
+            </p>
+            
+            <p>
+                But to me you are much more than a great novelist. To use a much abused phrase,
+                you are a man with a mission—the deliverance of woman from the heaviest shackles
+                that a stupid and selfish society has forged for her.
+            </p>
+            
+            <!-- PAGE 5 (blank verso) -->
+            <pb facs="uoedh_hl_h.2035_5.jpg"/>
+            
+            <!-- PAGE 6 (typed page 3 + signature) -->
+            <pb facs="uoedh_hl_h.2035_6.jpg"/>
+            
+            <p>
+                Now I know that you will take these crudities in the spirit in which they are written—
+                a deep desire to express my appreciation of the man who to me is the most significant figure in modern literature.
+            </p>
+            
+            <closer>
+                <signed>Yours most sincerely,  
+                    <persName ref="https://viaf.org/viaf/54144784/">Brasford K. Daniels</persName>
+                </signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>
+
+                
