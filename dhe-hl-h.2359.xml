@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Millicent Garrett Fawcett to Thomas Hardy — April 24</title>
+                <author>
+                    <persName ref="https://viaf.org/viaf/73880180/">Millicent Garrett Fawcett</persName>
+                </author>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Dorset History Centre / Dorset Museum</publisher>
+                <availability status="restricted">
+                    <p>For research use only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Dorset History Centre / Dorset Museum</repository>
+                        <idno>H.2359</idno>
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <p>
+                            Letter on pale blue laid paper, written in brown ink in moderate cursive hand.
+                            Some rust spots and faint crease marks visible.
+                        </p>
+                    </physDesc>
+                    
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName ref="https://viaf.org/viaf/73880180/">Millicent Garrett Fawcett</persName>
+                            <placeName ref="https://www.geonames.org/2643743/">London</placeName>
+                            <date when="1892-04-24">April 24</date>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName ref="https://viaf.org/viaf/7397734/">Thomas Hardy</persName>
+                        </correspAction>
+                    </correspDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <abstract>
+                A brief letter thanking Hardy for his reply and for his willingness to write
+                a short story as Fawcett had requested. She hopes to see him in London and
+                share stories that motivated her work helping vulnerable girls.
+            </abstract>
+            
+            <handDesc>
+                <handNote>Brown ink, cursive; steady hand with occasional ligatures and long descenders.</handNote>
+            </handDesc>
+            
+            <note type="context">
+                Millicent Garrett Fawcett, a prominent suffragist and reformer, corresponded
+                with Thomas Hardy on matters related to social purity, literature, and women’s welfare.
+            </note>
+        </profileDesc>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Diplomatic transcription with <lb/> for line breaks and <unclear> for ambiguous characters.</p>
+            </projectDesc>
+        </encodingDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- PAGE 1 (blank verso) -->
+            <pb facs="uoedh_hl_h.2359_1.jpg"/>
+            
+            <!-- PAGE 2 -->
+            <pb facs="uoedh_hl_h.2359_2.jpg"/>
+            
+            <head>
+                <persName ref="https://viaf.org/viaf/73880180/">Millicent Garrett Fawcett</persName>
+            </head>
+            
+            <dateline>
+                <placeName ref="https://www.geonames.org/2634308/">Rustington, Worthing</placeName>;<lb/>
+                (<placeName ref="https://www.geonames.org/2643743/">London</placeName> address: 2 Gower Street, London)<lb/>
+                <date when="1892-04-24">April 24.</date>
+            </dateline>
+            
+            <salute>Dear Mr Hardy,</salute>
+            
+            <p>
+                I thank you very sincerely for your letter.<lb/>
+                I am not without hope you will write a short story on the lines I have
+                endeavoured to indicate.<lb/>
+                So few people could do it; but you can.<lb/>
+                You and Mrs Hardy will lose no time when you are in<lb/>
+            </p>
+            
+            <!-- PAGE 3 (recto of second leaf) -->
+            <pb facs="uoedh_hl_h.2359_3.jpg"/>
+            
+            <p>
+                London. I should be very delighted to see you; and I could perhaps tell you
+                some of the true stories that moved me first to wish you to beg your help in this.<lb/>
+            </p>
+            
+            <closer>
+                Yours very truly,<lb/>
+                <signed>
+                    <persName ref="https://viaf.org/viaf/73880180/">M. Fawcett</persName>
+                </signed>
+            </closer>
+            
+            <!-- PAGE 4 (full spread duplicate alignment) -->
+            <pb facs="uoedh_hl_h.2359_2-3.jpg"/>
+            
+            <!-- PAGE 5 (final blank page) -->
+            <pb facs="uoedh_hl_h.2359_4.jpg"/>
+            
+        </body>
+    </text>
+    
+</TEI>
