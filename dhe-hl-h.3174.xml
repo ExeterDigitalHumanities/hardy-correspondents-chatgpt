@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Florence Henniker to Thomas Hardy — H.3174</title>
+                <author>
+                    <persName ref="https://viaf.org/viaf/92467672/">Florence Henniker</persName>
+                </author>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Dorset History Centre / Dorset Museum</publisher>
+                <availability status="restricted">
+                    <p>For research use only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Dorset History Centre / Dorset Museum</repository>
+                        <idno>H.3174</idno>
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <p>
+                            Folded card of cream stock with a printed black border and printed
+                            crest “The Little Orchard, Shoreham, Kent.” in black at the head
+                            of the first page. Written in a slightly sloping grey pencil/ink
+                            hand on all four sides, with extensive cross-writing in margins
+                            and between lines.
+                        </p>
+                    </physDesc>
+                    
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName ref="https://viaf.org/viaf/92467672/">Florence Henniker</persName>
+                            <placeName ref="https://www.geonames.org/2637917/">Shoreham, Kent</placeName>
+                            <date cert="low">Nov 20.</date>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName ref="https://viaf.org/viaf/7397734/">Thomas Hardy</persName>
+                        </correspAction>
+                    </correspDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <abstract>
+                Florence Henniker writes from Shoreham to congratulate Thomas Hardy
+                on his Cambridge fellowship, comment on dramatic and poetic
+                adaptations of his work, discuss contemporary poetry readings, and
+                share news of mutual acquaintances.
+            </abstract>
+            
+            <handDesc>
+                <handNote>Single rapid cursive hand in grey pencil or pale ink, with cross-writing.</handNote>
+            </handDesc>
+            
+            <note type="context">
+                Florence Ellen Hungerford Henniker (1855–1923), novelist and short
+                story writer, was a close friend and sometimes collaborator of
+                Thomas Hardy. This letter, written from her home “The Little Orchard”
+                at Shoreham, Kent, comments on stage and poetic responses to Hardy’s
+                work and reflects their long literary friendship.
+            </note>
+        </profileDesc>
+        
+        <notesStmt>
+            <note type="material">
+                Card stock, cream, with printed black rule around the recto of the
+                first page. Writing medium appears to be soft pencil or very pale ink.
+                Cross-writing runs at right angles across margins and between lines.
+            </note>
+            <note type="imprint">
+                Printed oval device at head of first page reads:
+                “The Little Orchard. Shoreham. Kent.”
+            </note>
+        </notesStmt>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- PAGE 1 -->
+            <pb facs="uoedh_hl_h.3174_1.jpg"/>
+            
+            <opener>
+                <dateline>
+                    <date cert="low">Nov 20.</date>
+                </dateline>
+                <salute>my dear friend,</salute>
+            </opener>
+            
+            <p>
+                How nice of you to write to me from <placeName ref="https://www.geonames.org/2653941/">Cambridge</placeName>!
+                and thank you too for telling me that you are pleased to have this link
+                with Arthur in belonging to his old college. Magdalene must be proud
+                to have you as a Fellow. I hope it may be cheering to you, &amp; a real
+                interest to go there from time to time.
+            </p>
+            
+            <seg type="crosswriting">
+                many more stories in your new book; some day I must talk to you about
+                them.
+            </seg>
+            
+            <!-- PAGE 2 : long main paragraph + heavy cross-writing -->
+            <pb facs="uoedh_hl_h.3174_2-3.jpg"/>
+            
+            <p>
+                I see in to-day’s "<hi>D[aily] Mail</hi>" an account of the
+                "<hi>Woodlanders</hi>" &amp; a picture of Marty South. It will be
+                interesting to hear how far you — I, for perhaps you saw the
+                rehearsals, at any rate — &amp; Miss Drysdale, think she came at near
+                to your conception of the character? It is rather wonderful if an
+                untrained actress succeeded in satisfying people who care for the book.
+                I daresay Miss D. will kindly write &amp; tell me about it.
+            </p>
+            
+            <seg type="crosswriting">
+                I thought the "Tryst at the ancient earthwork" extremely good — such a
+                difficult thing to do!  "The Wedding Supper", "The Grave by the
+                Hand-post", &amp; "A Mere Interlude" are very characteristic of you —
+                including that dramatic situation of the honeymoon in the letter — the
+                Committee’s "Moon of Three Terrors" is very original &amp; I so admire
+                that last paragraph "that outline against the stars of the morning" —
+                so graphic!  "Alveira Dian" <unclear>interested me</unclear>, but in some
+                ways it is unlike you, I think?
+            </seg>
+            
+            <!-- PAGE 3 -->
+            <pb facs="uoedh_hl_h.3174_5.jpg"/>
+            
+            <p>
+                I am going to send you a very small vol. of really charming poems by
+                Miss Wedmore. I think "<hi>England</hi>" &amp; "<hi>The Grand Duke’s
+                    Funeral</hi>" especially good. I hope she will have the praise she
+                deserves from some of the critics. Sir F. Wedmore gave a
+                <unclear>great deal of encouragement</unclear> to people who care for
+                true poetry.
+            </p>
+            
+            <!-- PAGE 4 -->
+            <pb facs="uoedh_hl_h.3174_8.jpg"/>
+            
+            <p>
+                I hope you are feeling better, &amp; that vein in your leg does not now
+                give trouble?
+            </p>
+            
+            <p>
+                This place seems to suit me, &amp; I am doing a good deal in the
+                garden &amp; hope to encourage many birds to make it their home.
+                We had a very interesting poetry reading the other evening in
+                <placeName ref="https://www.geonames.org/2638053/">Sevenoaks</placeName>.
+                He read your "<hi>Burgh</hi>" &amp; "<hi>The Rash Bride</hi>" (the
+                latter particularly well). I thought also a beautiful little poem
+                "<hi>Twilight</hi>", by Masefield, which I am sure wd. appeal to you,
+                &amp; a lovely little lyric "<hi>Jenny’s Daughter</hi>", by Mona
+                O’Neill — intensely pathetic in its simplicity. Do you know it? I
+                wonder if you are writing more verse now? I have read a great
+                <unclear>deal with admiration</unclear>.
+            </p>
+            
+            <closer>
+                <salute>In affectionate friendship</salute><lb/>
+                <signed>F. H.</signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>
