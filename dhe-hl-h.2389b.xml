@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter to Thomas Hardy from Lala Folsie — 9 May 1922</title>
+                <author>
+                    <persName>Lala Folsie</persName>
+                </author>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Dorset History Centre / Dorset Museum</publisher>
+                <availability status="restricted">
+                    <p>For research use only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Dorset History Centre / Dorset Museum</repository>
+                        <idno>H.2389</idno>
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <p>
+                            Four-page letter on thin cream wove paper printed with the masthead of
+                            <hi>The Theatre Magazine</hi>, Sydney. Brown ink handwriting on rectos;
+                            versos mostly blank but showing ink offsetting.
+                        </p>
+                    </physDesc>
+                    
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName>Lala Folsie</persName>
+                            <placeName ref="https://www.geonames.org/2147714/">Sydney, Australia</placeName>
+                            <date when="1922-05-09">9th May 1922</date>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName ref="https://viaf.org/viaf/7397734/">Thomas Hardy</persName>
+                        </correspAction>
+                    </correspDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <abstract>
+                A long, emotional letter expressing lifelong admiration for Thomas Hardy's works,
+                recounting personal experiences of reading his novels and poems, and conveying the
+                devotion of a circle of Hardy readers in Sydney.
+            </abstract>
+            
+            <handDesc>
+                <handNote>Brown ink, flowing cursive hand, with emphatic underlining in places.</handNote>
+            </handDesc>
+            
+            <note type="context">
+                The writer, signing as “Lala Folsie,” writes from the offices of
+                <hi>The Theatre Magazine</hi> in Sydney, referencing editor Richard Robert Frank Hill
+                and a small Hardy-reading group.
+            </note>
+        </profileDesc>
+        
+        <encodingDesc>
+            <projectDesc>
+                <p>Diplomatic transcription with <lb/> for line breaks and <unclear> for uncertain readings.</p>
+            </projectDesc>
+        </encodingDesc>
+        
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- PAGE 1 (blank verso of page 1) -->
+            <pb facs="uoedh_hl_h.2389_1.jpg"/>
+            
+            <!-- PAGE 2 (letterhead + opening) -->
+            <pb facs="uoedh_hl_h.2389_2.jpg"/>
+            
+            <opener>
+                <dateline>
+                    Lyceum Theatre Buildings,<lb/>
+                    214 Pitt Street, <placeName ref="https://www.geonames.org/2147714/">Sydney</placeName>, Australia,<lb/>
+                    <date when="1922-05-09">9th May 1922</date>.
+                </dateline>
+                <salute>Dear Thomas Hardy,</salute>
+            </opener>
+            
+            <p>
+                Many times I have written to you — each time, sensible of the liberty I was taking in intruding upon you,
+                destroying my letter. For twenty years you have been a part of our life and through your thought and work we
+                have often found something that made us, even in our most anxious moments, live and try anew.
+            </p>
+            
+            <p>
+                Only this week we have been re-reading a book of yours — for perhaps the twentieth time.
+            </p>
+            
+            <p>
+                For a long time I could not forgive you for “Father Time” in <hi>Jude the Obscure</hi>, but now I would not have him
+                out of the book if I could. He had to be.
+            </p>
+            
+            <p>
+                My lover — we have been with one another over twenty years — I think — first read one of your books to me —
+                the great “Tess of the—”
+            </p>
+            
+            <!-- PAGE 3 (blank verso of second page) -->
+            <pb facs="uoedh_hl_h.2389_3.jpg"/>
+            
+            <!-- PAGE 4 (continuation) -->
+            <pb facs="uoedh_hl_h.2389_4.jpg"/>
+            
+            <p>
+                d’Urbervilles” &amp; then we read “The Mayor of Casterbridge”. And then re-read them both. And so it has been ever since —
+                reading and re-reading your many books.
+            </p>
+            
+            <p>
+                Just now I was reading aloud some of your poems, lingering especially over “Shelley’s Skylark”, “The Phantom Horsewoman”,
+                “Departure”, “The Dear”, “George Meredith”, “In a Wood”, “To an Unborn Pauper Child” — indeed lingering over them all.
+                Thrilled by the superb closing lines of the volume:
+            </p>
+            
+            <p>
+                “But — a stirring thrills the air<lb/>
+                like to sounds of joyance here<lb/>
+                That the rages<lb/>
+                Of the ages<lb/>
+                Shall be <hi>cancelled</hi>, and deliverance offered<lb/>
+                from the darts that were;<lb/>
+                Consciousness the Will informing till Earth-fashion all things fair.”
+            </p>
+            
+            <p>
+                I simply had to come in &amp; tell you of our love and reverence. A short time ago I<lb/>
+            </p>
+            
+            <!-- PAGE 5 (blank verso) -->
+            <pb facs="uoedh_hl_h.2389_5.jpg"/>
+            
+            <!-- PAGE 6 (final page) -->
+            <pb facs="uoedh_hl_h.2389_6.jpg"/>
+            
+            <p>
+                became quite angry concerning you while reading again “A Group of Noble Dames”: “He detests women — he is most unjust to them”
+                I ranted. But very soon afterward I retracted — “He understands them too well — &amp; his Tess is the tortured upholder of that
+                (earthly-obscured) ideal of chastity which has always been humanity’s star!”
+            </p>
+            
+            <p>
+                Richard Robert Frank Hill is the name of the editor of this magazine &amp; the lover who loves me &amp; whom I love.
+                Nurse O’Sullivan is the third in our Hardy reading circle. We all send you our deep respect and regard and we say as a prayer:
+                “God bless you, guard you, uplift you &amp; hold you in His love”.
+            </p>
+            
+            <closer>
+                I remain<lb/>
+                Yours faithfully,<lb/>
+                <signed>Lala Folsie</signed>
+            </closer>
+            
+        </body>
+    </text>
+</TEI>

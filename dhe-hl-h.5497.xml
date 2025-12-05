@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Leslie Stephen to Thomas Hardy — 20 November 1872</title>
+                <author>
+                    <persName ref="https://viaf.org/viaf/22152677/">Leslie Stephen</persName>
+                </author>
+            </titleStmt>
+            
+            <publicationStmt>
+                <publisher>Dorset History Centre / Dorset Museum</publisher>
+                <availability status="restricted">
+                    <p>For research use only.</p>
+                </availability>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Dorset History Centre / Dorset Museum</repository>
+                        <idno>H.5497</idno>
+                    </msIdentifier>
+                    
+                    <physDesc>
+                        <p>
+                            Single bifolium on cream wove paper, written in brown ink in a neat,
+                            slanted cursive hand. Embossed stamp of
+                            <hi>The Cornhill Magazine</hi> visible on the recto of the first page.
+                        </p>
+                    </physDesc>
+                    
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName ref="https://viaf.org/viaf/22152677/">Leslie Stephen</persName>
+                            <date when="1872-11-20">20 November 1872</date>
+                            <placeName ref="https://www.geonames.org/2643743/">London</placeName>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName ref="https://viaf.org/viaf/7397734/">Thomas Hardy</persName>
+                        </correspAction>
+                    </correspDesc>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        
+        <profileDesc>
+            <abstract>
+                Leslie Stephen writes to Thomas Hardy after reading <hi>Under the Greenwood Tree</hi>,
+                praising its descriptions and inviting Hardy to contribute a story to
+                <hi>The Cornhill Magazine</hi>.
+            </abstract>
+            
+            <handDesc>
+                <handNote>Single, neat cursive hand in brown ink.</handNote>
+            </handDesc>
+            
+            <note type="context">
+                Leslie Stephen (1832–1904), critic, biographer, and editor of
+                <hi>The Cornhill Magazine</hi>, writes to solicit contributions from
+                the young Thomas Hardy after admiring his recently published novel
+                <hi>Under the Greenwood Tree</hi>.
+            </note>
+            
+            <encodingDesc>
+                <projectDesc>
+                    <p>
+                        Diplomatic TEI transcription including full lineation, entity tagging,
+                        and material notes.
+                    </p>
+                </projectDesc>
+            </encodingDesc>
+        </profileDesc>
+        
+        <notesStmt>
+            <note type="material">
+                Paper is cream wove, lightly folded. Ink is brown, consistent throughout.
+                Cornhill Magazine blind-stamped imprint at upper left of first page.
+            </note>
+            <note type="imprint">
+                Blind stamp: “THE CORNHILL MAGAZINE / SMITH ELDER & Co.”
+            </note>
+        </notesStmt>
+        
+        <!-- Dublin Core block -->
+        
+        <encodingDesc>
+            <p>Automatically generated Dublin Core metadata.</p>
+        </encodingDesc>
+        
+        <revisionDesc>
+            <change>Initial TEI creation.</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            
+            <!-- Blank verso -->
+            <pb facs="uoedh_hl_h.5497_1.jpg"/>
+            
+            <!-- Page 1 -->
+            <pb facs="uoedh_hl_h.5497_2.jpg"/>
+            
+            <opener>
+                <dateline>
+                    <placeName ref="https://www.geonames.org/2643743/">London</placeName><lb/>
+                    Smith, Elder &amp; Co.<lb/>
+                    15 Waterloo Place<lb/>
+                    S.W.<lb/>
+                    <date when="1872-11-20">20.11.72</date>
+                </dateline>
+                <salute>Dear Sir,</salute>
+            </opener>
+            
+            <p>
+                I hear from Mr. Mould that I may address you as the author of
+                "<hi>Under the Greenwood Tree</hi>".<lb/>
+                I have lately read &amp; <unclear>shewn</unclear> this with very great pleasure indeed.<lb/>
+                I think the descriptions of country life admirable &amp; indeed it is long since I have received more pleasure
+                from a new writer.<lb/>
+                It also occurred to me, and it is for this reason that I take the liberty of addressing you,<lb/>
+                that such writing would probably please the readers of <hi>The Cornhill Magazine</hi> as much as it has pleased me.<lb/>
+                "<hi>Under the Greenwood Tree</hi>" is of course not a magazine story. There is too little incident for such purpose:
+                for, though I do not want a murder in every number, it is necessary to catch the attention of readers by some distinct &amp;
+                well arranged plot.<lb/>
+                If you are so I hope working anything novel I should be very glad to have the offer of it for our pages.<lb/>
+                I of course cannot say anything more definite at present; but I should be very glad to hear from you whether there is any
+                probability of my receiving such an offer.<lb/>
+                If I can give you any further information on the subject, of course I shall be very happy to do so.<lb/>
+                I will only say now that if any agreement could be made between us I have no doubt it would be satisfactorily carried out on both sides.<lb/>
+                Meanwhile,<lb/>
+            </p>
+            
+            <!-- Page 2 -->
+            <pb facs="uoedh_hl_h.5497_3-4.jpg"/>
+            
+            <closer>
+                Yours truly,<lb/>
+                <signed>
+                    <persName ref="https://viaf.org/viaf/22152677/">Leslie Stephen</persName><lb/>
+                    <note>[Editor of the Cornhill Mag.]</note>
+                </signed>
+            </closer>
+            
+            <p>
+                I have not seen "<hi>Desperate Remedies</hi>" though I have heard it highly praised.
+            </p>
+            
+        </body>
+    </text>
+</TEI>
